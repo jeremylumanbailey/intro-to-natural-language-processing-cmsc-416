@@ -13,14 +13,22 @@ import re
 
 def clean_brackets(dirty_string):
     clean_string = re.sub(r"[\[\]]", '', dirty_string)
-    return clean_string
+    cleaner_string = re.sub(r'|\S+', '', clean_string)
+    # cleanest_string = re.sub(r'\/','', cleaner_string)
+    return cleaner_string.replace("\/", "")
 
 
 def findWordTagFreq(word_tag_list):
     my_dict = {}
     for every_pair in word_tag_list:
-        word = every_pair.split("/")[0]
-        tag = every_pair.split("/")[1]
+
+        # word = every_pair.split('/')[0]
+        # tag = every_pair.split('/')[1]
+
+        holder = re.split('\/', every_pair)
+
+        word = holder[0]
+        tag = holder[1]
 
         if word in my_dict:
             if tag in my_dict[word]:
@@ -37,7 +45,6 @@ def findWordTagFreq(word_tag_list):
 
 
 def main():
-
     #
     train_text = ""
     with open(sys.argv[1], "r") as train_arg:
@@ -51,14 +58,15 @@ def main():
 
     train_text_list = clean_brackets(train_text).split()
 
-
     word_tag = {}
     tag_his = {}
-    prev_tag = ''
+    prev_tag = None
 
     for every_pair in train_text_list:
+
         word = every_pair.split("/")[0]
         tag = every_pair.split("/")[1]
+
 
 
         if word in word_tag:
@@ -79,7 +87,7 @@ def main():
             else:
                 tag_his[prev_tag] = {}
                 tag_his[prev_tag][tag] = 1
-        elif prev_tag != '':
+        elif prev_tag:
             tag_his[prev_tag] = {}
             tag_his[prev_tag][tag] = {}
             tag_his[prev_tag][tag] = 1
@@ -93,11 +101,17 @@ def main():
     final_list = []
     prev_tag = None
 
-
-
     for every_word in test_list:
+
+        # holder = re.split('\/', every_pair)
+        # if len(holder) != 2:
+        #     final_list.append(every_word + "/" + "NN")
+        #     prev_tag = "NN"
+        #     continue
+
         if every_word not in word_tag:
             final_list.append(every_word + "/" + "NN")
+            prev_tag = "NN"
             continue
 
         tmp_prob = 0
@@ -116,26 +130,26 @@ def main():
             prev_tag = tag_to_append
             continue
 
-
         for tag, tag_value in word_tag[every_word].items():
+
+            if tag not in tag_his[prev_tag]:
+                continue
             tmp_prob = (word_tag[every_word][tag] / sum(word_tag[every_word].values())) \
                        * (tag_his[prev_tag][tag] / sum(tag_his[prev_tag].values()))
             if tmp_prob > current_prob:
                 current_prob = tmp_prob
                 tag_to_append = tag
 
-            final_list.append(every_word + "/" + tag_to_append)
-            prev_tag = tag_to_append
+        final_list.append(every_word + "/" + tag_to_append)
+        prev_tag = tag_to_append
+
+    print(final_list)
+
+    with open("pos-test-with-tags.txt", "w") as filehandle:
+        for item in final_list:
+            filehandle.write('%s\n' % item)
 
 
-
-
-
-        #this will be done at the end of every loop
-        # final_list.append(every_word + "/" + tag_to_append)
-        # prev_tag = tag_to_append
 
 if __name__ == "__main__":
     main()
-
-
