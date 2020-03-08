@@ -2,49 +2,46 @@ import sys
 import re
 import pandas as pd
 
+
+# Cleans that brackets from the data, as well as other sanitizing
 def clean_brackets(dirty_string):
     clean_string = re.sub(r"[\[\]]", '', dirty_string)
     cleaner_string = re.sub(r'\|\S+', '', clean_string)
-    #cleanest_string = re.sub(r'\/','', cleaner_string)
     return cleaner_string.replace("\/", "")
 
 
+# Main function where I run most of the code
 def main():
 
+    # Load the tagged words from pos-test-with-tags.txt
     model = ""
     with open(sys.argv[1], "r") as model_arg:
         data = model_arg.read()
         model += data
 
+    # Load the gold standard from pos-test-key.txt
     answers = ""
     with open(sys.argv[2], "r") as key_arg:
         data = key_arg.read()
         answers += data
 
+    # Clean up data from answer and model
     model = clean_brackets(model).split()
     answers = clean_brackets(answers).split()
-
     key_list = []
     model_list = []
 
+    # Fill key_list with tags
     for each in answers:
+        tmp_arr = re.split('\/', each)
+        tag = tmp_arr[1]
+        key_list.append(tag)
 
-        holder = re.split('\/', each)
-
-        tag = holder[1]
-
-        key_list.append(each.split('/')[1])
-
+    # Fill model_list with tags
     for every in model:
-
-        holder = re.split('\/', every)
-
-        tag = holder[1]
-
-        model_list.append(every.split('/')[1])
-
-    # y_true = ['rabbit', 'cat', 'rabbit', 'rabbit', 'cat', 'dog', 'dog', 'rabbit', 'rabbit', 'cat', 'dog', 'rabbit']
-    # y_pred = ['cat', 'cat', 'rabbit', 'dog', 'cat', 'rabbit', 'dog', 'cat', 'rabbit', 'cat', 'rabbit', 'rabbit']
+        tmp_arr = re.split('\/', every)
+        tag = tmp_arr[1]
+        model_list.append(tag)
 
     # # Print Statistics about general accuracy
     # print("Correct: " + str(correct))
