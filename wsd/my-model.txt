@@ -1,0 +1,1677 @@
+L: access <E>|</E> phone 8.502079553606189
+R: growth <E>|</E> phone 8.502079553606189
+2L: 4.5% access <E>|</E> phone 8.502079553606189
+2R: growth in <E>|</E> phone 8.502079553606189
+LR: access growth <E>|</E> phone 8.502079553606189
+W: 4.5% <E>|</E> phone 8.502079553606189
+W: access <E>|</E> phone 8.502079553606189
+W: growth <E>|</E> phone 8.502079553606189
+R: as <E>|</E> product 8.502079553606189
+2L: establish the <E>|</E> product 8.502079553606189
+2R: as the <E>|</E> product 8.502079553606189
+LR: the as <E>|</E> product 8.502079553606189
+W: establish <E>|</E> product 8.502079553606189
+L: struggling <E>|</E> product 8.502079553606189
+2L: the struggling <E>|</E> product 8.502079553606189
+2R: was scrapped. <E>|</E> product 8.502079553606189
+LR: struggling was <E>|</E> product 8.502079553606189
+W: struggling <E>|</E> product 8.502079553606189
+W: scrapped. <E>|</E> product 8.502079553606189
+2L: 16,000 new <E>|</E> phone 8.502079553606189
+2R: to current <E>|</E> phone 8.502079553606189
+LR: new to <E>|</E> phone 8.502079553606189
+W: 16,000 <E>|</E> phone 8.502079553606189
+L: computer <E>|</E> product 8.502079553606189
+2L: mid-range computer <E>|</E> product 8.502079553606189
+2R: and its <E>|</E> product 8.502079553606189
+LR: computer and <E>|</E> product 8.502079553606189
+W: mid-range <E>|</E> product 8.502079553606189
+W: computer <E>|</E> product 8.502079553606189
+L: previous <E>|</E> product 8.502079553606189
+2L: the previous <E>|</E> product 8.502079553606189
+LR: previous . <E>|</E> product 8.502079553606189
+W: previous <E>|</E> product 8.502079553606189
+L: three <E>|</E> product 8.502079553606189
+2L: the three <E>|</E> product 8.502079553606189
+2R: at more <E>|</E> product 8.502079553606189
+LR: three at <E>|</E> product 8.502079553606189
+L: skin-care <E>|</E> product 8.502079553606189
+2L: Prairie skin-care <E>|</E> product 8.502079553606189
+LR: skin-care , <E>|</E> product 8.502079553606189
+W: Prairie <E>|</E> product 8.502079553606189
+W: skin-care <E>|</E> product 8.502079553606189
+L: Atlas <E>|</E> product 8.502079553606189
+2L: certain Atlas <E>|</E> product 8.502079553606189
+2R: and properties, <E>|</E> product 8.502079553606189
+LR: Atlas and <E>|</E> product 8.502079553606189
+W: certain <E>|</E> product 8.502079553606189
+W: Atlas <E>|</E> product 8.502079553606189
+W: properties, <E>|</E> product 8.502079553606189
+2L: on the <E>|</E> phone 8.502079553606189
+2R: to order <E>|</E> phone 8.502079553606189
+LR: the to <E>|</E> phone 8.502079553606189
+W: on <E>|</E> phone 8.502079553606189
+W: order <E>|</E> phone 8.502079553606189
+L: furniture <E>|</E> product 8.502079553606189
+R: could <E>|</E> product 8.502079553606189
+2L: The furniture <E>|</E> product 8.502079553606189
+2R: could fetch <E>|</E> product 8.502079553606189
+LR: furniture could <E>|</E> product 8.502079553606189
+W: furniture <E>|</E> product 8.502079553606189
+W: fetch <E>|</E> product 8.502079553606189
+L: gab <E>|</E> phone 8.502079553606189
+2L: the gab <E>|</E> phone 8.502079553606189
+2R: have been <E>|</E> phone 8.502079553606189
+LR: gab have <E>|</E> phone 8.502079553606189
+W: gab <E>|</E> phone 8.502079553606189
+L: tip <E>|</E> phone 8.502079553606189
+2L: telephone tip <E>|</E> phone 8.502079553606189
+2R: that has <E>|</E> phone 8.502079553606189
+LR: tip that <E>|</E> phone 8.502079553606189
+W: telephone <E>|</E> phone 8.502079553606189
+W: tip <E>|</E> phone 8.502079553606189
+2L: thousand access <E>|</E> phone 8.502079553606189
+LR: access . <E>|</E> phone 8.502079553606189
+W: thousand <E>|</E> phone 8.502079553606189
+R: busy <E>|</E> phone 8.502079553606189
+2L: keep the <E>|</E> phone 8.502079553606189
+2R: busy for <E>|</E> phone 8.502079553606189
+LR: the busy <E>|</E> phone 8.502079553606189
+W: keep <E>|</E> phone 8.502079553606189
+W: busy <E>|</E> phone 8.502079553606189
+L: telephone <E>|</E> phone 8.502079553606189
+R: increased <E>|</E> phone 8.502079553606189
+2L: residential telephone <E>|</E> phone 8.502079553606189
+2R: increased 2.4% <E>|</E> phone 8.502079553606189
+LR: telephone increased <E>|</E> phone 8.502079553606189
+W: residential <E>|</E> phone 8.502079553606189
+W: increased <E>|</E> phone 8.502079553606189
+W: 2.4% <E>|</E> phone 8.502079553606189
+L: microprocessor <E>|</E> product 8.502079553606189
+2L: the microprocessor <E>|</E> product 8.502079553606189
+LR: microprocessor . <E>|</E> product 8.502079553606189
+W: microprocessor <E>|</E> product 8.502079553606189
+2L: long-distance telephone <E>|</E> phone 8.502079553606189
+2R: that link <E>|</E> phone 8.502079553606189
+LR: telephone that <E>|</E> phone 8.502079553606189
+W: long-distance <E>|</E> phone 8.502079553606189
+W: link <E>|</E> phone 8.502079553606189
+L: non-food <E>|</E> product 8.502079553606189
+2L: its non-food <E>|</E> product 8.502079553606189
+LR: non-food . <E>|</E> product 8.502079553606189
+W: non-food <E>|</E> product 8.502079553606189
+L: rail-intermodal <E>|</E> product 8.502079553606189
+2L: The rail-intermodal <E>|</E> product 8.502079553606189
+LR: rail-intermodal , <E>|</E> product 8.502079553606189
+W: rail-intermodal <E>|</E> product 8.502079553606189
+L: dedicated <E>|</E> phone 8.502079553606189
+2L: or dedicated <E>|</E> phone 8.502079553606189
+LR: dedicated . <E>|</E> phone 8.502079553606189
+W: or <E>|</E> phone 8.502079553606189
+W: dedicated <E>|</E> phone 8.502079553606189
+L: car <E>|</E> product 8.502079553606189
+R: ," <E>|</E> product 8.502079553606189
+2L: between car <E>|</E> product 8.502079553606189
+2R: ," Mr. <E>|</E> product 8.502079553606189
+LR: car ," <E>|</E> product 8.502079553606189
+W: car <E>|</E> product 8.502079553606189
+W: ," <E>|</E> product 8.502079553606189
+L: complete <E>|</E> product 8.502079553606189
+2L: more complete <E>|</E> product 8.502079553606189
+2R: of mammography <E>|</E> product 8.502079553606189
+LR: complete of <E>|</E> product 8.502079553606189
+W: complete <E>|</E> product 8.502079553606189
+W: mammography <E>|</E> product 8.502079553606189
+2L: private telephone <E>|</E> phone 8.502079553606189
+2R: and spread <E>|</E> phone 8.502079553606189
+LR: telephone and <E>|</E> phone 8.502079553606189
+W: private <E>|</E> phone 8.502079553606189
+W: spread <E>|</E> phone 8.502079553606189
+L: luxury-car <E>|</E> product 8.502079553606189
+R: may <E>|</E> product 8.502079553606189
+2L: new luxury-car <E>|</E> product 8.502079553606189
+2R: may not <E>|</E> product 8.502079553606189
+LR: luxury-car may <E>|</E> product 8.502079553606189
+W: luxury-car <E>|</E> product 8.502079553606189
+W: may <E>|</E> product 8.502079553606189
+W: not <E>|</E> product 8.502079553606189
+2L: , the <E>|</E> phone 8.502079553606189
+2R: was dead <E>|</E> phone 8.502079553606189
+LR: the was <E>|</E> phone 8.502079553606189
+W: dead <E>|</E> phone 8.502079553606189
+L: outside <E>|</E> phone 8.502079553606189
+2L: an outside <E>|</E> phone 8.502079553606189
+LR: outside , <E>|</E> phone 8.502079553606189
+W: outside <E>|</E> phone 8.502079553606189
+L: Smith <E>|</E> product 8.502079553606189
+2L: Jaclyn Smith <E>|</E> product 8.502079553606189
+2R: in 1985, <E>|</E> product 8.502079553606189
+LR: Smith in <E>|</E> product 8.502079553606189
+W: Jaclyn <E>|</E> product 8.502079553606189
+W: Smith <E>|</E> product 8.502079553606189
+W: 1985, <E>|</E> product 8.502079553606189
+2L: telephone access <E>|</E> phone 8.502079553606189
+LR: access , <E>|</E> phone 8.502079553606189
+2L: up the <E>|</E> phone 8.502079553606189
+W: up <E>|</E> phone 8.502079553606189
+L: telephone- <E>|</E> phone 8.502079553606189
+R: increase <E>|</E> phone 8.502079553606189
+2L: "largest telephone- <E>|</E> phone 8.502079553606189
+2R: increase ever," <E>|</E> phone 8.502079553606189
+LR: telephone- increase <E>|</E> phone 8.502079553606189
+W: "largest <E>|</E> phone 8.502079553606189
+W: telephone- <E>|</E> phone 8.502079553606189
+W: increase <E>|</E> phone 8.502079553606189
+W: ever," <E>|</E> phone 8.502079553606189
+L: food <E>|</E> product 8.502079553606189
+2L: frozen food <E>|</E> product 8.502079553606189
+LR: food . <E>|</E> product 8.502079553606189
+W: frozen <E>|</E> product 8.502079553606189
+W: food <E>|</E> product 8.502079553606189
+2L: over the <E>|</E> phone 8.502079553606189
+W: over <E>|</E> phone 8.502079553606189
+L: their <E>|</E> product 8.502079553606189
+2L: expand their <E>|</E> product 8.502079553606189
+2R: ," said <E>|</E> product 8.502079553606189
+LR: their ," <E>|</E> product 8.502079553606189
+W: expand <E>|</E> product 8.502079553606189
+R: used <E>|</E> phone 8.502079553606189
+2R: used in <E>|</E> phone 8.502079553606189
+LR: telephone used <E>|</E> phone 8.502079553606189
+W: used <E>|</E> phone 8.502079553606189
+L: 24 <E>|</E> phone 8.502079553606189
+2L: as 24 <E>|</E> phone 8.502079553606189
+2R: and 48 <E>|</E> phone 8.502079553606189
+LR: 24 and <E>|</E> phone 8.502079553606189
+W: 24 <E>|</E> phone 8.502079553606189
+W: 48 <E>|</E> phone 8.502079553606189
+L: Corp.'s <E>|</E> product 8.502079553606189
+2L: Abex Corp.'s <E>|</E> product 8.502079553606189
+2R: of aircraft <E>|</E> product 8.502079553606189
+LR: Corp.'s of <E>|</E> product 8.502079553606189
+W: Abex <E>|</E> product 8.502079553606189
+W: Corp.'s <E>|</E> product 8.502079553606189
+W: aircraft <E>|</E> product 8.502079553606189
+L: similar <E>|</E> product 8.502079553606189
+2L: a similar <E>|</E> product 8.502079553606189
+2R: and I <E>|</E> product 8.502079553606189
+LR: similar and <E>|</E> product 8.502079553606189
+W: similar <E>|</E> product 8.502079553606189
+L: R1 <E>|</E> product 8.502079553606189
+R: made <E>|</E> product 8.502079553606189
+2L: and R1 <E>|</E> product 8.502079553606189
+2R: made by <E>|</E> product 8.502079553606189
+LR: R1 made <E>|</E> product 8.502079553606189
+W: R1 <E>|</E> product 8.502079553606189
+W: made <E>|</E> product 8.502079553606189
+2L: launch a <E>|</E> product 8.502079553606189
+2R: of deluxe <E>|</E> product 8.502079553606189
+LR: a of <E>|</E> product 8.502079553606189
+W: launch <E>|</E> product 8.502079553606189
+W: deluxe <E>|</E> product 8.502079553606189
+2L: of the <E>|</E> phone 8.502079553606189
+2R: was that <E>|</E> phone 8.502079553606189
+L: bisexual <E>|</E> phone 8.502079553606189
+R: recently <E>|</E> phone 8.502079553606189
+2L: Megaquest's bisexual <E>|</E> phone 8.502079553606189
+2R: recently got <E>|</E> phone 8.502079553606189
+LR: bisexual recently <E>|</E> phone 8.502079553606189
+W: Megaquest's <E>|</E> phone 8.502079553606189
+W: bisexual <E>|</E> phone 8.502079553606189
+W: recently <E>|</E> phone 8.502079553606189
+W: got <E>|</E> phone 8.502079553606189
+2L: York telephone <E>|</E> phone 8.502079553606189
+2R: of Millionaire's <E>|</E> phone 8.502079553606189
+LR: telephone of <E>|</E> phone 8.502079553606189
+W: York <E>|</E> phone 8.502079553606189
+W: Millionaire's <E>|</E> phone 8.502079553606189
+L: complaint <E>|</E> phone 8.502079553606189
+2L: toll-free complaint <E>|</E> phone 8.502079553606189
+LR: complaint , <E>|</E> phone 8.502079553606189
+W: toll-free <E>|</E> phone 8.502079553606189
+W: complaint <E>|</E> phone 8.502079553606189
+L: truck <E>|</E> product 8.502079553606189
+R: through <E>|</E> product 8.502079553606189
+2L: and truck <E>|</E> product 8.502079553606189
+2R: through Dec. <E>|</E> product 8.502079553606189
+LR: truck through <E>|</E> product 8.502079553606189
+W: truck <E>|</E> product 8.502079553606189
+W: Dec. <E>|</E> product 8.502079553606189
+L: IBM <E>|</E> product 8.502079553606189
+2L: new IBM <E>|</E> product 8.502079553606189
+2R: . He <E>|</E> product 8.502079553606189
+LR: IBM . <E>|</E> product 8.502079553606189
+W: IBM <E>|</E> product 8.502079553606189
+W: He <E>|</E> product 8.502079553606189
+L: integrated <E>|</E> product 8.502079553606189
+2L: its integrated <E>|</E> product 8.502079553606189
+2R: of software <E>|</E> product 8.502079553606189
+LR: integrated of <E>|</E> product 8.502079553606189
+W: integrated <E>|</E> product 8.502079553606189
+W: software <E>|</E> product 8.502079553606189
+2L: the new <E>|</E> product 8.502079553606189
+2R: of computers <E>|</E> product 8.502079553606189
+LR: new of <E>|</E> product 8.502079553606189
+W: computers <E>|</E> product 8.502079553606189
+L: popular <E>|</E> product 8.502079553606189
+2L: a popular <E>|</E> product 8.502079553606189
+2R: of cherubic <E>|</E> product 8.502079553606189
+LR: popular of <E>|</E> product 8.502079553606189
+W: popular <E>|</E> product 8.502079553606189
+W: cherubic <E>|</E> product 8.502079553606189
+2L: necessary telephone <E>|</E> phone 8.502079553606189
+LR: telephone . <E>|</E> phone 8.502079553606189
+W: necessary <E>|</E> phone 8.502079553606189
+L: diagnostics <E>|</E> product 8.502079553606189
+R: showed <E>|</E> product 8.502079553606189
+2L: company's diagnostics <E>|</E> product 8.502079553606189
+2R: showed an <E>|</E> product 8.502079553606189
+LR: diagnostics showed <E>|</E> product 8.502079553606189
+W: company's <E>|</E> product 8.502079553606189
+W: diagnostics <E>|</E> product 8.502079553606189
+W: showed <E>|</E> product 8.502079553606189
+L: toll-free <E>|</E> phone 8.502079553606189
+2L: a toll-free <E>|</E> phone 8.502079553606189
+2R: for its <E>|</E> phone 8.502079553606189
+LR: toll-free for <E>|</E> phone 8.502079553606189
+L: several <E>|</E> product 8.502079553606189
+2L: of several <E>|</E> product 8.502079553606189
+2R: , such <E>|</E> product 8.502079553606189
+LR: several , <E>|</E> product 8.502079553606189
+W: several <E>|</E> product 8.502079553606189
+W: such <E>|</E> product 8.502079553606189
+L: trading <E>|</E> phone 8.502079553606189
+R: yesterday, <E>|</E> phone 8.502079553606189
+2L: their trading <E>|</E> phone 8.502079553606189
+2R: yesterday, possibly <E>|</E> phone 8.502079553606189
+LR: trading yesterday, <E>|</E> phone 8.502079553606189
+W: trading <E>|</E> phone 8.502079553606189
+W: yesterday, <E>|</E> phone 8.502079553606189
+W: possibly <E>|</E> phone 8.502079553606189
+L: company's <E>|</E> product 8.502079553606189
+2L: apparel company's <E>|</E> product 8.502079553606189
+LR: company's . <E>|</E> product 8.502079553606189
+W: apparel <E>|</E> product 8.502079553606189
+2R: , first <E>|</E> phone 8.502079553606189
+W: first <E>|</E> phone 8.502079553606189
+2L: highest-volume car <E>|</E> product 8.502079553606189
+2R: at Chevrolet, <E>|</E> product 8.502079553606189
+LR: car at <E>|</E> product 8.502079553606189
+W: highest-volume <E>|</E> product 8.502079553606189
+W: Chevrolet, <E>|</E> product 8.502079553606189
+2L: off the <E>|</E> phone 8.502079553606189
+W: off <E>|</E> phone 8.502079553606189
+L: whose <E>|</E> phone 8.502079553606189
+2L: phone whose <E>|</E> phone 8.502079553606189
+2R: was secure <E>|</E> phone 8.502079553606189
+LR: whose was <E>|</E> phone 8.502079553606189
+W: phone <E>|</E> phone 8.502079553606189
+W: whose <E>|</E> phone 8.502079553606189
+W: secure <E>|</E> phone 8.502079553606189
+2L: create a <E>|</E> product 8.502079553606189
+2R: of oversize <E>|</E> product 8.502079553606189
+W: create <E>|</E> product 8.502079553606189
+W: oversize <E>|</E> product 8.502079553606189
+R: by <E>|</E> product 8.502079553606189
+2L: popular car <E>|</E> product 8.502079553606189
+2R: by 2.5% <E>|</E> product 8.502079553606189
+LR: car by <E>|</E> product 8.502079553606189
+2L: and telephone <E>|</E> phone 8.502079553606189
+LR: telephone into <E>|</E> phone 8.502079553606189
+L: radio <E>|</E> phone 8.502079553606189
+2L: open radio <E>|</E> phone 8.502079553606189
+2R: and swore <E>|</E> phone 8.502079553606189
+LR: radio and <E>|</E> phone 8.502079553606189
+W: open <E>|</E> phone 8.502079553606189
+W: radio <E>|</E> phone 8.502079553606189
+W: swore <E>|</E> phone 8.502079553606189
+2L: acquired food <E>|</E> product 8.502079553606189
+2R: to Kraft <E>|</E> product 8.502079553606189
+LR: food to <E>|</E> product 8.502079553606189
+W: acquired <E>|</E> product 8.502079553606189
+W: Kraft <E>|</E> product 8.502079553606189
+2L: building the <E>|</E> product 8.502079553606189
+2R: into a <E>|</E> product 8.502079553606189
+LR: the into <E>|</E> product 8.502079553606189
+W: building <E>|</E> product 8.502079553606189
+2L: new telephone <E>|</E> phone 8.502079553606189
+LR: telephone , <E>|</E> phone 8.502079553606189
+L: such <E>|</E> product 8.502079553606189
+R: will <E>|</E> product 8.502079553606189
+2L: While such <E>|</E> product 8.502079553606189
+2R: will continue <E>|</E> product 8.502079553606189
+LR: such will <E>|</E> product 8.502079553606189
+W: While <E>|</E> product 8.502079553606189
+W: will <E>|</E> product 8.502079553606189
+W: continue <E>|</E> product 8.502079553606189
+L: unsecured <E>|</E> phone 8.502079553606189
+R: while <E>|</E> phone 8.502079553606189
+2L: an unsecured <E>|</E> phone 8.502079553606189
+2R: while Mr. <E>|</E> phone 8.502079553606189
+LR: unsecured while <E>|</E> phone 8.502079553606189
+W: unsecured <E>|</E> phone 8.502079553606189
+W: while <E>|</E> phone 8.502079553606189
+L: private <E>|</E> phone 8.502079553606189
+2L: dedicated private <E>|</E> phone 8.502079553606189
+2R: and public <E>|</E> phone 8.502079553606189
+LR: private and <E>|</E> phone 8.502079553606189
+W: public <E>|</E> phone 8.502079553606189
+L: older <E>|</E> product 8.502079553606189
+2L: from older <E>|</E> product 8.502079553606189
+LR: older . <E>|</E> product 8.502079553606189
+W: older <E>|</E> product 8.502079553606189
+L: Carleton <E>|</E> product 8.502079553606189
+2L: its Carleton <E>|</E> product 8.502079553606189
+2R: of precision <E>|</E> product 8.502079553606189
+LR: Carleton of <E>|</E> product 8.502079553606189
+W: Carleton <E>|</E> product 8.502079553606189
+W: precision <E>|</E> product 8.502079553606189
+R: let's <E>|</E> phone 8.502079553606189
+2R: let's call <E>|</E> phone 8.502079553606189
+LR: the let's <E>|</E> phone 8.502079553606189
+W: let's <E>|</E> phone 8.502079553606189
+W: call <E>|</E> phone 8.502079553606189
+R: light <E>|</E> phone 8.502079553606189
+2L: see the <E>|</E> phone 8.502079553606189
+2R: light up. <E>|</E> phone 8.502079553606189
+LR: the light <E>|</E> phone 8.502079553606189
+W: see <E>|</E> phone 8.502079553606189
+W: light <E>|</E> phone 8.502079553606189
+W: up. <E>|</E> phone 8.502079553606189
+2R: to their <E>|</E> phone 8.502079553606189
+2L: Brands' other <E>|</E> product 8.502079553606189
+LR: other . <E>|</E> product 8.502079553606189
+W: Brands' <E>|</E> product 8.502079553606189
+L: subscriber <E>|</E> phone 8.502079553606189
+R: charges. <E>|</E> phone 8.502079553606189
+2L: pay subscriber <E>|</E> phone 8.502079553606189
+LR: subscriber charges. <E>|</E> phone 8.502079553606189
+W: pay <E>|</E> phone 8.502079553606189
+W: subscriber <E>|</E> phone 8.502079553606189
+W: charges. <E>|</E> phone 8.502079553606189
+2L: new access <E>|</E> phone 8.502079553606189
+L: fragrance <E>|</E> product 8.502079553606189
+2L: Montana fragrance <E>|</E> product 8.502079553606189
+2R: from Monteil, <E>|</E> product 8.502079553606189
+LR: fragrance from <E>|</E> product 8.502079553606189
+W: Montana <E>|</E> product 8.502079553606189
+W: fragrance <E>|</E> product 8.502079553606189
+W: Monteil, <E>|</E> product 8.502079553606189
+L: PC <E>|</E> product 8.502079553606189
+R: wouldn't <E>|</E> product 8.502079553606189
+2L: IBM PC <E>|</E> product 8.502079553606189
+2R: wouldn't still <E>|</E> product 8.502079553606189
+LR: PC wouldn't <E>|</E> product 8.502079553606189
+W: PC <E>|</E> product 8.502079553606189
+W: wouldn't <E>|</E> product 8.502079553606189
+2L: four telephone <E>|</E> phone 8.502079553606189
+2R: and one <E>|</E> phone 8.502079553606189
+W: four <E>|</E> phone 8.502079553606189
+2L: " The <E>|</E> phone 8.502079553606189
+LR: The was <E>|</E> phone 8.502079553606189
+W: " <E>|</E> phone 8.502079553606189
+2L: over telephone <E>|</E> phone 8.502079553606189
+2R: , over <E>|</E> phone 8.502079553606189
+2R: were added <E>|</E> phone 8.502079553606189
+LR: access were <E>|</E> phone 8.502079553606189
+W: added <E>|</E> phone 8.502079553606189
+2L: out a <E>|</E> product 8.502079553606189
+2R: of clothing <E>|</E> product 8.502079553606189
+W: clothing <E>|</E> product 8.502079553606189
+L: dead <E>|</E> phone 8.502079553606189
+2L: a dead <E>|</E> phone 8.502079553606189
+LR: dead , <E>|</E> phone 8.502079553606189
+L: aerospace <E>|</E> product 8.502079553606189
+2L: its aerospace <E>|</E> product 8.502079553606189
+LR: aerospace . <E>|</E> product 8.502079553606189
+W: aerospace <E>|</E> product 8.502079553606189
+L: in <E>|</E> product 8.502079553606189
+R: ranging <E>|</E> product 8.502079553606189
+2L: sellers in <E>|</E> product 8.502079553606189
+2R: ranging from <E>|</E> product 8.502079553606189
+LR: in ranging <E>|</E> product 8.502079553606189
+W: sellers <E>|</E> product 8.502079553606189
+W: ranging <E>|</E> product 8.502079553606189
+L: GM-10 <E>|</E> product 8.502079553606189
+2L: The GM-10 <E>|</E> product 8.502079553606189
+2R: is aimed <E>|</E> product 8.502079553606189
+LR: GM-10 is <E>|</E> product 8.502079553606189
+W: GM-10 <E>|</E> product 8.502079553606189
+W: aimed <E>|</E> product 8.502079553606189
+L: apparel <E>|</E> product 8.502079553606189
+2L: the apparel <E>|</E> product 8.502079553606189
+LR: apparel . <E>|</E> product 8.502079553606189
+L: those <E>|</E> product 8.502079553606189
+2L: that those <E>|</E> product 8.502079553606189
+2R: were hurt <E>|</E> product 8.502079553606189
+LR: those were <E>|</E> product 8.502079553606189
+W: those <E>|</E> product 8.502079553606189
+W: hurt <E>|</E> product 8.502079553606189
+L: billion <E>|</E> product 8.502079553606189
+2L: $5 billion <E>|</E> product 8.502079553606189
+2R: of mid-sized <E>|</E> product 8.502079553606189
+LR: billion of <E>|</E> product 8.502079553606189
+W: $5 <E>|</E> product 8.502079553606189
+W: billion <E>|</E> product 8.502079553606189
+W: mid-sized <E>|</E> product 8.502079553606189
+2L: produces a <E>|</E> product 8.502079553606189
+2R: of more <E>|</E> product 8.502079553606189
+W: produces <E>|</E> product 8.502079553606189
+L: cereal <E>|</E> product 8.502079553606189
+2L: Nabisco's cereal <E>|</E> product 8.502079553606189
+2R: with its <E>|</E> product 8.502079553606189
+LR: cereal with <E>|</E> product 8.502079553606189
+W: Nabisco's <E>|</E> product 8.502079553606189
+W: cereal <E>|</E> product 8.502079553606189
+2L: its new <E>|</E> product 8.502079553606189
+2R: of personal <E>|</E> product 8.502079553606189
+W: personal <E>|</E> product 8.502079553606189
+2R: , " <E>|</E> phone 8.502079553606189
+2L: the company's <E>|</E> product 8.502079553606189
+2R: of PDP <E>|</E> product 8.502079553606189
+LR: company's of <E>|</E> product 8.502079553606189
+W: PDP <E>|</E> product 8.502079553606189
+2R: of Limited <E>|</E> product 8.502079553606189
+W: Limited <E>|</E> product 8.502079553606189
+L: "gab" <E>|</E> phone 8.502079553606189
+2L: provide: "gab" <E>|</E> phone 8.502079553606189
+2R: that dozens <E>|</E> phone 8.502079553606189
+LR: "gab" that <E>|</E> phone 8.502079553606189
+W: provide: <E>|</E> phone 8.502079553606189
+W: "gab" <E>|</E> phone 8.502079553606189
+W: dozens <E>|</E> phone 8.502079553606189
+2L: tried a <E>|</E> product 8.502079553606189
+2R: of frozen-cheese <E>|</E> product 8.502079553606189
+W: tried <E>|</E> product 8.502079553606189
+W: frozen-cheese <E>|</E> product 8.502079553606189
+L: perfume <E>|</E> product 8.502079553606189
+2L: new perfume <E>|</E> product 8.502079553606189
+2R: , "Elizabeth <E>|</E> product 8.502079553606189
+LR: perfume , <E>|</E> product 8.502079553606189
+W: perfume <E>|</E> product 8.502079553606189
+W: "Elizabeth <E>|</E> product 8.502079553606189
+L: available <E>|</E> phone 8.502079553606189
+R: hours <E>|</E> phone 8.502079553606189
+2L: be available <E>|</E> phone 8.502079553606189
+2R: hours a <E>|</E> phone 8.502079553606189
+LR: available hours <E>|</E> phone 8.502079553606189
+W: be <E>|</E> phone 8.502079553606189
+W: available <E>|</E> phone 8.502079553606189
+W: hours <E>|</E> phone 8.502079553606189
+2L: 900 telephone <E>|</E> phone 8.502079553606189
+2R: called "Soap <E>|</E> phone 8.502079553606189
+LR: telephone called <E>|</E> phone 8.502079553606189
+W: 900 <E>|</E> phone 8.502079553606189
+W: "Soap <E>|</E> phone 8.502079553606189
+L: Jeep <E>|</E> product 8.502079553606189
+2L: the Jeep <E>|</E> product 8.502079553606189
+LR: Jeep , <E>|</E> product 8.502079553606189
+W: Jeep <E>|</E> product 8.502079553606189
+L: 1988-model <E>|</E> product 8.502079553606189
+R: this <E>|</E> product 8.502079553606189
+2L: its 1988-model <E>|</E> product 8.502079553606189
+2R: this fall, <E>|</E> product 8.502079553606189
+LR: 1988-model this <E>|</E> product 8.502079553606189
+W: 1988-model <E>|</E> product 8.502079553606189
+W: fall, <E>|</E> product 8.502079553606189
+L: A <E>|</E> product 8.502079553606189
+2L: BRIEFS: A <E>|</E> product 8.502079553606189
+2R: of shoes <E>|</E> product 8.502079553606189
+LR: A of <E>|</E> product 8.502079553606189
+W: BRIEFS: <E>|</E> product 8.502079553606189
+W: shoes <E>|</E> product 8.502079553606189
+2L: toll-free telephone <E>|</E> phone 8.502079553606189
+2R: and conduct <E>|</E> phone 8.502079553606189
+W: conduct <E>|</E> phone 8.502079553606189
+2L: current car <E>|</E> product 8.502079553606189
+LR: car . <E>|</E> product 8.502079553606189
+L: torpedo <E>|</E> product 8.502079553606189
+2L: submarine-seeking torpedo <E>|</E> product 8.502079553606189
+LR: torpedo . <E>|</E> product 8.502079553606189
+W: submarine-seeking <E>|</E> product 8.502079553606189
+W: torpedo <E>|</E> product 8.502079553606189
+L: lastest <E>|</E> product 8.502079553606189
+2L: IBM's lastest <E>|</E> product 8.502079553606189
+LR: lastest of <E>|</E> product 8.502079553606189
+W: IBM's <E>|</E> product 8.502079553606189
+W: lastest <E>|</E> product 8.502079553606189
+L: marketing <E>|</E> product 8.502079553606189
+2L: and marketing <E>|</E> product 8.502079553606189
+2R: and involving <E>|</E> product 8.502079553606189
+LR: marketing and <E>|</E> product 8.502079553606189
+W: marketing <E>|</E> product 8.502079553606189
+W: involving <E>|</E> product 8.502079553606189
+R: grew <E>|</E> phone 8.502079553606189
+2L: New telephone <E>|</E> phone 8.502079553606189
+2R: grew 2.5% <E>|</E> phone 8.502079553606189
+LR: telephone grew <E>|</E> phone 8.502079553606189
+W: New <E>|</E> phone 8.502079553606189
+W: grew <E>|</E> phone 8.502079553606189
+L: broader <E>|</E> product 8.502079553606189
+2L: much broader <E>|</E> product 8.502079553606189
+LR: broader , <E>|</E> product 8.502079553606189
+W: much <E>|</E> product 8.502079553606189
+W: broader <E>|</E> product 8.502079553606189
+L: latest <E>|</E> product 8.502079553606189
+2L: source's latest <E>|</E> product 8.502079553606189
+LR: latest . <E>|</E> product 8.502079553606189
+W: source's <E>|</E> product 8.502079553606189
+W: latest <E>|</E> product 8.502079553606189
+R: ? <E>|</E> phone 8.502079553606189
+2L: the other <E>|</E> phone 8.502079553606189
+2R: ? " <E>|</E> phone 8.502079553606189
+LR: other ? <E>|</E> phone 8.502079553606189
+W: ? <E>|</E> phone 8.502079553606189
+L: customer <E>|</E> phone 8.502079553606189
+2L: New customer <E>|</E> phone 8.502079553606189
+2R: grew 3.5% <E>|</E> phone 8.502079553606189
+LR: customer grew <E>|</E> phone 8.502079553606189
+W: customer <E>|</E> phone 8.502079553606189
+W: 3.5% <E>|</E> phone 8.502079553606189
+2L: 500,000 access <E>|</E> phone 8.502079553606189
+W: 500,000 <E>|</E> phone 8.502079553606189
+L: diaper <E>|</E> product 8.502079553606189
+2L: adult diaper <E>|</E> product 8.502079553606189
+LR: diaper in <E>|</E> product 8.502079553606189
+W: adult <E>|</E> product 8.502079553606189
+W: diaper <E>|</E> product 8.502079553606189
+L: "older <E>|</E> product 8.502079553606189
+R: products" <E>|</E> product 8.502079553606189
+2L: mostly "older <E>|</E> product 8.502079553606189
+2R: products" sold <E>|</E> product 8.502079553606189
+LR: "older products" <E>|</E> product 8.502079553606189
+W: mostly <E>|</E> product 8.502079553606189
+W: "older <E>|</E> product 8.502079553606189
+W: products" <E>|</E> product 8.502079553606189
+W: sold <E>|</E> product 8.502079553606189
+L: product <E>|</E> product 8.502079553606189
+2L: most product <E>|</E> product 8.502079553606189
+2R: , particularly <E>|</E> product 8.502079553606189
+LR: product , <E>|</E> product 8.502079553606189
+W: product <E>|</E> product 8.502079553606189
+W: particularly <E>|</E> product 8.502079553606189
+L: These <E>|</E> product 8.502079553606189
+2L: Marsh-Florida. These <E>|</E> product 8.502079553606189
+LR: These , <E>|</E> product 8.502079553606189
+W: Marsh-Florida. <E>|</E> product 8.502079553606189
+W: These <E>|</E> product 8.502079553606189
+L: Prix <E>|</E> product 8.502079553606189
+2L: Grand Prix <E>|</E> product 8.502079553606189
+2R: is capable <E>|</E> product 8.502079553606189
+LR: Prix is <E>|</E> product 8.502079553606189
+W: Grand <E>|</E> product 8.502079553606189
+W: Prix <E>|</E> product 8.502079553606189
+W: capable <E>|</E> product 8.502079553606189
+L: PS/2 <E>|</E> product 8.502079553606189
+2L: Corp.'s PS/2 <E>|</E> product 8.502079553606189
+2R: of computers. <E>|</E> product 8.502079553606189
+LR: PS/2 of <E>|</E> product 8.502079553606189
+W: PS/2 <E>|</E> product 8.502079553606189
+W: computers. <E>|</E> product 8.502079553606189
+2L: from his <E>|</E> product 8.502079553606189
+2R: of plush <E>|</E> product 8.502079553606189
+LR: his of <E>|</E> product 8.502079553606189
+W: plush <E>|</E> product 8.502079553606189
+L: full <E>|</E> product 8.502079553606189
+R: under <E>|</E> product 8.502079553606189
+2L: its full <E>|</E> product 8.502079553606189
+2R: under its <E>|</E> product 8.502079553606189
+LR: full under <E>|</E> product 8.502079553606189
+W: full <E>|</E> product 8.502079553606189
+W: under <E>|</E> product 8.502079553606189
+R: just <E>|</E> phone 8.502079553606189
+2L: clogged the <E>|</E> phone 8.502079553606189
+2R: just to <E>|</E> phone 8.502079553606189
+LR: the just <E>|</E> phone 8.502079553606189
+W: clogged <E>|</E> phone 8.502079553606189
+2L: IBM's PS/2 <E>|</E> product 8.502079553606189
+2R: are expected <E>|</E> product 8.502079553606189
+LR: PS/2 are <E>|</E> product 8.502079553606189
+W: expected <E>|</E> product 8.502079553606189
+2L: dozen telephone <E>|</E> phone 8.502079553606189
+2R: at the <E>|</E> phone 8.502079553606189
+LR: telephone at <E>|</E> phone 8.502079553606189
+W: dozen <E>|</E> phone 8.502079553606189
+L: your <E>|</E> phone 8.502079553606189
+2L: on your <E>|</E> phone 8.502079553606189
+LR: your , <E>|</E> phone 8.502079553606189
+W: your <E>|</E> phone 8.502079553606189
+2L: direct trading <E>|</E> phone 8.502079553606189
+2R: to the <E>|</E> phone 8.502079553606189
+LR: trading to <E>|</E> phone 8.502079553606189
+W: direct <E>|</E> phone 8.502079553606189
+L: Cougar <E>|</E> product 8.502079553606189
+2L: and Cougar <E>|</E> product 8.502079553606189
+LR: Cougar . <E>|</E> product 8.502079553606189
+W: Cougar <E>|</E> product 8.502079553606189
+2R: , no <E>|</E> phone 8.502079553606189
+W: no <E>|</E> phone 8.502079553606189
+R: charges <E>|</E> phone 8.502079553606189
+2L: in subscriber <E>|</E> phone 8.502079553606189
+2R: charges and <E>|</E> phone 8.502079553606189
+LR: subscriber charges <E>|</E> phone 8.502079553606189
+W: charges <E>|</E> phone 8.502079553606189
+2R: that it <E>|</E> product 8.502079553606189
+LR: PS/2 that <E>|</E> product 8.502079553606189
+W: it <E>|</E> product 8.502079553606189
+L: cracker <E>|</E> product 8.502079553606189
+2L: and cracker <E>|</E> product 8.502079553606189
+2R: and in <E>|</E> product 8.502079553606189
+LR: cracker and <E>|</E> product 8.502079553606189
+W: cracker <E>|</E> product 8.502079553606189
+2L: dropping the <E>|</E> product 8.502079553606189
+W: dropping <E>|</E> product 8.502079553606189
+2L: residents, whose <E>|</E> phone 8.502079553606189
+2R: were allegedly <E>|</E> phone 8.502079553606189
+LR: whose were <E>|</E> phone 8.502079553606189
+W: residents, <E>|</E> phone 8.502079553606189
+W: allegedly <E>|</E> phone 8.502079553606189
+R: once <E>|</E> phone 8.502079553606189
+2L: Calif., gab <E>|</E> phone 8.502079553606189
+2R: once talked <E>|</E> phone 8.502079553606189
+LR: gab once <E>|</E> phone 8.502079553606189
+W: Calif., <E>|</E> phone 8.502079553606189
+W: once <E>|</E> phone 8.502079553606189
+W: talked <E>|</E> phone 8.502079553606189
+2R: , dialed <E>|</E> phone 8.502079553606189
+W: dialed <E>|</E> phone 8.502079553606189
+2L: 15,700 access <E>|</E> phone 8.502079553606189
+LR: access in <E>|</E> phone 8.502079553606189
+W: 15,700 <E>|</E> phone 8.502079553606189
+L: gab- <E>|</E> phone 8.502079553606189
+R: proprietors, <E>|</E> phone 8.502079553606189
+2L: other gab- <E>|</E> phone 8.502079553606189
+2R: proprietors, Megaquest <E>|</E> phone 8.502079553606189
+LR: gab- proprietors, <E>|</E> phone 8.502079553606189
+W: gab- <E>|</E> phone 8.502079553606189
+W: proprietors, <E>|</E> phone 8.502079553606189
+W: Megaquest <E>|</E> phone 8.502079553606189
+L: dreamboat <E>|</E> product 8.502079553606189
+2L: Hollywood's dreamboat <E>|</E> product 8.502079553606189
+LR: dreamboat . <E>|</E> product 8.502079553606189
+W: Hollywood's <E>|</E> product 8.502079553606189
+W: dreamboat <E>|</E> product 8.502079553606189
+R: went <E>|</E> phone 8.502079553606189
+2L: . The <E>|</E> phone 8.502079553606189
+2R: went dead <E>|</E> phone 8.502079553606189
+LR: The went <E>|</E> phone 8.502079553606189
+W: went <E>|</E> phone 8.502079553606189
+2R: and leaves <E>|</E> phone 8.502079553606189
+LR: the and <E>|</E> phone 8.502079553606189
+W: leaves <E>|</E> phone 8.502079553606189
+R: open <E>|</E> phone 8.502079553606189
+2L: keep a <E>|</E> phone 8.502079553606189
+2R: open for <E>|</E> phone 8.502079553606189
+LR: a open <E>|</E> phone 8.502079553606189
+L: Kids <E>|</E> product 8.502079553606189
+2L: Patch Kids <E>|</E> product 8.502079553606189
+2R: could draw <E>|</E> product 8.502079553606189
+LR: Kids could <E>|</E> product 8.502079553606189
+W: Patch <E>|</E> product 8.502079553606189
+W: Kids <E>|</E> product 8.502079553606189
+W: draw <E>|</E> product 8.502079553606189
+L: equipment <E>|</E> product 8.502079553606189
+2L: excavation equipment <E>|</E> product 8.502079553606189
+2R: are well <E>|</E> product 8.502079553606189
+LR: equipment are <E>|</E> product 8.502079553606189
+W: excavation <E>|</E> product 8.502079553606189
+W: equipment <E>|</E> product 8.502079553606189
+W: well <E>|</E> product 8.502079553606189
+L: tire <E>|</E> product 8.502079553606189
+2L: American tire <E>|</E> product 8.502079553606189
+LR: tire . <E>|</E> product 8.502079553606189
+W: American <E>|</E> product 8.502079553606189
+W: tire <E>|</E> product 8.502079553606189
+2L: a new <E>|</E> product 8.502079553606189
+2R: of high-end <E>|</E> product 8.502079553606189
+W: high-end <E>|</E> product 8.502079553606189
+L: this <E>|</E> phone 8.502079553606189
+2L: Keep this <E>|</E> phone 8.502079553606189
+2R: open ! <E>|</E> phone 8.502079553606189
+LR: this open <E>|</E> phone 8.502079553606189
+W: Keep <E>|</E> phone 8.502079553606189
+W: ! <E>|</E> phone 8.502079553606189
+2L: lost the <E>|</E> phone 8.502079553606189
+2R: from the <E>|</E> phone 8.502079553606189
+LR: the from <E>|</E> phone 8.502079553606189
+W: lost <E>|</E> phone 8.502079553606189
+2R: in Britain <E>|</E> phone 8.502079553606189
+LR: telephone in <E>|</E> phone 8.502079553606189
+W: Britain <E>|</E> phone 8.502079553606189
+L: $1.69 <E>|</E> product 8.502079553606189
+2L: to $1.69 <E>|</E> product 8.502079553606189
+2R: of frozen <E>|</E> product 8.502079553606189
+LR: $1.69 of <E>|</E> product 8.502079553606189
+W: $1.69 <E>|</E> product 8.502079553606189
+L: open <E>|</E> phone 8.502079553606189
+2L: an open <E>|</E> phone 8.502079553606189
+2R: to his <E>|</E> phone 8.502079553606189
+LR: open to <E>|</E> phone 8.502079553606189
+R: but <E>|</E> product 8.502079553606189
+2L: midrange product <E>|</E> product 8.502079553606189
+2R: but declined <E>|</E> product 8.502079553606189
+LR: product but <E>|</E> product 8.502079553606189
+W: midrange <E>|</E> product 8.502079553606189
+W: declined <E>|</E> product 8.502079553606189
+L: menswear <E>|</E> product 8.502079553606189
+2L: complete menswear <E>|</E> product 8.502079553606189
+LR: menswear . <E>|</E> product 8.502079553606189
+W: menswear <E>|</E> product 8.502079553606189
+L: products <E>|</E> product 8.502079553606189
+R: had <E>|</E> product 8.502079553606189
+2L: eye-care products <E>|</E> product 8.502079553606189
+2R: had sales <E>|</E> product 8.502079553606189
+LR: products had <E>|</E> product 8.502079553606189
+W: eye-care <E>|</E> product 8.502079553606189
+W: products <E>|</E> product 8.502079553606189
+W: sales <E>|</E> product 8.502079553606189
+2R: of minicomputers <E>|</E> product 8.502079553606189
+W: minicomputers <E>|</E> product 8.502079553606189
+L: jewelry <E>|</E> product 8.502079553606189
+2L: of jewelry <E>|</E> product 8.502079553606189
+2R: from Crystal <E>|</E> product 8.502079553606189
+LR: jewelry from <E>|</E> product 8.502079553606189
+W: jewelry <E>|</E> product 8.502079553606189
+W: Crystal <E>|</E> product 8.502079553606189
+L: shoe <E>|</E> product 8.502079553606189
+2L: athletic shoe <E>|</E> product 8.502079553606189
+2R: to a <E>|</E> product 8.502079553606189
+LR: shoe to <E>|</E> product 8.502079553606189
+W: athletic <E>|</E> product 8.502079553606189
+W: shoe <E>|</E> product 8.502079553606189
+R: between <E>|</E> phone 8.502079553606189
+2R: between them <E>|</E> phone 8.502079553606189
+LR: the between <E>|</E> phone 8.502079553606189
+W: them <E>|</E> phone 8.502079553606189
+R: or <E>|</E> phone 8.502079553606189
+2L: clogged telephone <E>|</E> phone 8.502079553606189
+2R: or that <E>|</E> phone 8.502079553606189
+LR: telephone or <E>|</E> phone 8.502079553606189
+L: million <E>|</E> phone 8.502079553606189
+2L: 10 million <E>|</E> phone 8.502079553606189
+2R: in service, <E>|</E> phone 8.502079553606189
+LR: million in <E>|</E> phone 8.502079553606189
+W: 10 <E>|</E> phone 8.502079553606189
+W: million <E>|</E> phone 8.502079553606189
+W: service, <E>|</E> phone 8.502079553606189
+L: camera <E>|</E> product 8.502079553606189
+2L: 600 camera <E>|</E> product 8.502079553606189
+LR: camera , <E>|</E> product 8.502079553606189
+W: 600 <E>|</E> product 8.502079553606189
+W: camera <E>|</E> product 8.502079553606189
+L: that <E>|</E> phone 8.502079553606189
+R: if <E>|</E> phone 8.502079553606189
+2L: on that <E>|</E> phone 8.502079553606189
+2R: if he <E>|</E> phone 8.502079553606189
+LR: that if <E>|</E> phone 8.502079553606189
+W: if <E>|</E> phone 8.502079553606189
+2L: dedicated telephone <E>|</E> phone 8.502079553606189
+2R: -- its <E>|</E> phone 8.502079553606189
+LR: telephone -- <E>|</E> phone 8.502079553606189
+L: women's <E>|</E> product 8.502079553606189
+R: where <E>|</E> product 8.502079553606189
+2L: the women's <E>|</E> product 8.502079553606189
+2R: where fashionability <E>|</E> product 8.502079553606189
+LR: women's where <E>|</E> product 8.502079553606189
+W: women's <E>|</E> product 8.502079553606189
+W: where <E>|</E> product 8.502079553606189
+W: fashionability <E>|</E> product 8.502079553606189
+2L: said access <E>|</E> phone 8.502079553606189
+2R: increased 3.7% <E>|</E> phone 8.502079553606189
+LR: access increased <E>|</E> phone 8.502079553606189
+W: 3.7% <E>|</E> phone 8.502079553606189
+2L: of telephone <E>|</E> phone 8.502079553606189
+2R: to record <E>|</E> phone 8.502079553606189
+LR: telephone to <E>|</E> phone 8.502079553606189
+W: record <E>|</E> phone 8.502079553606189
+2L: 32 computer <E>|</E> product 8.502079553606189
+2R: , built <E>|</E> product 8.502079553606189
+LR: computer , <E>|</E> product 8.502079553606189
+W: 32 <E>|</E> product 8.502079553606189
+W: built <E>|</E> product 8.502079553606189
+2L: a full <E>|</E> product 8.502079553606189
+2R: of auto <E>|</E> product 8.502079553606189
+LR: full of <E>|</E> product 8.502079553606189
+W: auto <E>|</E> product 8.502079553606189
+L: romance <E>|</E> phone 8.502079553606189
+2L: and romance <E>|</E> phone 8.502079553606189
+LR: romance . <E>|</E> phone 8.502079553606189
+W: romance <E>|</E> phone 8.502079553606189
+L: 570,000 <E>|</E> phone 8.502079553606189
+2L: than 570,000 <E>|</E> phone 8.502079553606189
+2R: , mainly <E>|</E> phone 8.502079553606189
+LR: 570,000 , <E>|</E> phone 8.502079553606189
+W: than <E>|</E> phone 8.502079553606189
+W: 570,000 <E>|</E> phone 8.502079553606189
+W: mainly <E>|</E> phone 8.502079553606189
+2L: produce a <E>|</E> product 8.502079553606189
+2R: of men's <E>|</E> product 8.502079553606189
+W: produce <E>|</E> product 8.502079553606189
+W: men's <E>|</E> product 8.502079553606189
+2L: installed trading <E>|</E> phone 8.502079553606189
+2R: to about <E>|</E> phone 8.502079553606189
+W: installed <E>|</E> phone 8.502079553606189
+W: about <E>|</E> phone 8.502079553606189
+L: Sun's <E>|</E> product 8.502079553606189
+2L: of Sun's <E>|</E> product 8.502079553606189
+LR: Sun's , <E>|</E> product 8.502079553606189
+W: Sun's <E>|</E> product 8.502079553606189
+2R: of mid-size <E>|</E> product 8.502079553606189
+W: mid-size <E>|</E> product 8.502079553606189
+2L: Edmonton, the <E>|</E> phone 8.502079553606189
+2R: were jammed <E>|</E> phone 8.502079553606189
+LR: the were <E>|</E> phone 8.502079553606189
+W: Edmonton, <E>|</E> phone 8.502079553606189
+W: jammed <E>|</E> phone 8.502079553606189
+2R: growth by <E>|</E> phone 8.502079553606189
+LR: telephone growth <E>|</E> phone 8.502079553606189
+L: all <E>|</E> phone 8.502079553606189
+2L: but all <E>|</E> phone 8.502079553606189
+2R: were out <E>|</E> phone 8.502079553606189
+LR: all were <E>|</E> phone 8.502079553606189
+L: party <E>|</E> phone 8.502079553606189
+2L: toll-call party <E>|</E> phone 8.502079553606189
+LR: party . <E>|</E> phone 8.502079553606189
+W: toll-call <E>|</E> phone 8.502079553606189
+W: party <E>|</E> phone 8.502079553606189
+L: software <E>|</E> product 8.502079553606189
+R: pacing <E>|</E> product 8.502079553606189
+2L: Choice software <E>|</E> product 8.502079553606189
+2R: pacing the <E>|</E> product 8.502079553606189
+LR: software pacing <E>|</E> product 8.502079553606189
+W: Choice <E>|</E> product 8.502079553606189
+W: pacing <E>|</E> product 8.502079553606189
+2L: some private <E>|</E> phone 8.502079553606189
+2R: . The <E>|</E> phone 8.502079553606189
+LR: private . <E>|</E> phone 8.502079553606189
+L: Macintosh <E>|</E> product 8.502079553606189
+R: rose <E>|</E> product 8.502079553606189
+2L: Inc.'s Macintosh <E>|</E> product 8.502079553606189
+2R: rose 130% <E>|</E> product 8.502079553606189
+LR: Macintosh rose <E>|</E> product 8.502079553606189
+W: Inc.'s <E>|</E> product 8.502079553606189
+W: Macintosh <E>|</E> product 8.502079553606189
+W: rose <E>|</E> product 8.502079553606189
+W: 130% <E>|</E> product 8.502079553606189
+2L: Mirage car <E>|</E> product 8.502079553606189
+W: Mirage <E>|</E> product 8.502079553606189
+2R: with the <E>|</E> phone 8.502079553606189
+LR: the with <E>|</E> phone 8.502079553606189
+L: crossed <E>|</E> phone 8.502079553606189
+2L: to crossed <E>|</E> phone 8.502079553606189
+LR: crossed . <E>|</E> phone 8.502079553606189
+W: crossed <E>|</E> phone 8.502079553606189
+L: Amiga <E>|</E> product 8.502079553606189
+2L: its Amiga <E>|</E> product 8.502079553606189
+2R: of computers, <E>|</E> product 8.502079553606189
+LR: Amiga of <E>|</E> product 8.502079553606189
+W: Amiga <E>|</E> product 8.502079553606189
+W: computers, <E>|</E> product 8.502079553606189
+L: Spectrum <E>|</E> product 8.502079553606189
+R: has <E>|</E> product 8.502079553606189
+2L: The Spectrum <E>|</E> product 8.502079553606189
+2R: has been <E>|</E> product 8.502079553606189
+LR: Spectrum has <E>|</E> product 8.502079553606189
+W: Spectrum <E>|</E> product 8.502079553606189
+L: direct <E>|</E> phone 8.502079553606189
+2L: by direct <E>|</E> phone 8.502079553606189
+2R: to maybe <E>|</E> phone 8.502079553606189
+LR: direct to <E>|</E> phone 8.502079553606189
+W: maybe <E>|</E> phone 8.502079553606189
+L: GM's <E>|</E> product 8.502079553606189
+2L: time, GM's <E>|</E> product 8.502079553606189
+2R: of older, <E>|</E> product 8.502079553606189
+LR: GM's of <E>|</E> product 8.502079553606189
+W: time, <E>|</E> product 8.502079553606189
+W: GM's <E>|</E> product 8.502079553606189
+W: older, <E>|</E> product 8.502079553606189
+L: using <E>|</E> phone 8.502079553606189
+R: they <E>|</E> phone 8.502079553606189
+2L: for using <E>|</E> phone 8.502079553606189
+2R: they had <E>|</E> phone 8.502079553606189
+LR: using they <E>|</E> phone 8.502079553606189
+W: using <E>|</E> phone 8.502079553606189
+2L: customer access <E>|</E> phone 8.502079553606189
+2R: grew by <E>|</E> phone 8.502079553606189
+LR: access grew <E>|</E> phone 8.502079553606189
+2L: II computer <E>|</E> product 8.502079553606189
+2R: is still <E>|</E> product 8.502079553606189
+LR: computer is <E>|</E> product 8.502079553606189
+W: II <E>|</E> product 8.502079553606189
+2L: its computer <E>|</E> product 8.502079553606189
+2R: , moved <E>|</E> product 8.502079553606189
+W: moved <E>|</E> product 8.502079553606189
+2L: new customer <E>|</E> phone 8.502079553606189
+2R: , a <E>|</E> phone 8.502079553606189
+LR: customer , <E>|</E> phone 8.502079553606189
+2R: called Healthy <E>|</E> product 8.502079553606189
+LR: similar called <E>|</E> product 8.502079553606189
+W: Healthy <E>|</E> product 8.502079553606189
+2L: the telephone <E>|</E> phone 8.502079553606189
+2R: because children <E>|</E> phone 8.502079553606189
+LR: telephone because <E>|</E> phone 8.502079553606189
+W: children <E>|</E> phone 8.502079553606189
+L: party- <E>|</E> phone 8.502079553606189
+R: effect <E>|</E> phone 8.502079553606189
+2L: The party- <E>|</E> phone 8.502079553606189
+2R: effect could <E>|</E> phone 8.502079553606189
+LR: party- effect <E>|</E> phone 8.502079553606189
+W: party- <E>|</E> phone 8.502079553606189
+W: effect <E>|</E> phone 8.502079553606189
+L: old <E>|</E> product 8.502079553606189
+2L: its old <E>|</E> product 8.502079553606189
+LR: old of <E>|</E> product 8.502079553606189
+W: old <E>|</E> product 8.502079553606189
+2L: for the <E>|</E> product 8.502079553606189
+2R: , he <E>|</E> product 8.502079553606189
+2R: -- voices <E>|</E> phone 8.502079553606189
+W: voices <E>|</E> phone 8.502079553606189
+2L: another telephone <E>|</E> phone 8.502079553606189
+W: another <E>|</E> phone 8.502079553606189
+L: important <E>|</E> phone 8.502079553606189
+R: ! <E>|</E> phone 8.502079553606189
+2L: most important <E>|</E> phone 8.502079553606189
+LR: important ! <E>|</E> phone 8.502079553606189
+W: important <E>|</E> phone 8.502079553606189
+L: Ziari <E>|</E> product 8.502079553606189
+2L: Inc.'s Ziari <E>|</E> product 8.502079553606189
+2R: of sunglasses. <E>|</E> product 8.502079553606189
+LR: Ziari of <E>|</E> product 8.502079553606189
+W: Ziari <E>|</E> product 8.502079553606189
+W: sunglasses. <E>|</E> product 8.502079553606189
+L: and <E>|</E> phone 8.502079553606189
+R: adapters <E>|</E> phone 8.502079553606189
+2L: , and <E>|</E> phone 8.502079553606189
+2R: adapters , <E>|</E> phone 8.502079553606189
+LR: and adapters <E>|</E> phone 8.502079553606189
+W: adapters <E>|</E> phone 8.502079553606189
+L: 50,000 <E>|</E> phone 8.502079553606189
+2L: only 50,000 <E>|</E> phone 8.502079553606189
+LR: 50,000 . <E>|</E> phone 8.502079553606189
+W: only <E>|</E> phone 8.502079553606189
+W: 50,000 <E>|</E> phone 8.502079553606189
+2L: running gab <E>|</E> phone 8.502079553606189
+2R: last year <E>|</E> phone 8.502079553606189
+LR: gab last <E>|</E> phone 8.502079553606189
+W: running <E>|</E> phone 8.502079553606189
+W: year <E>|</E> phone 8.502079553606189
+2L: manufacture a <E>|</E> product 8.502079553606189
+2R: of trucks <E>|</E> product 8.502079553606189
+W: manufacture <E>|</E> product 8.502079553606189
+W: trucks <E>|</E> product 8.502079553606189
+2R: , says <E>|</E> phone 8.502079553606189
+W: says <E>|</E> phone 8.502079553606189
+2L: market. A <E>|</E> product 8.502079553606189
+2R: of "Captain <E>|</E> product 8.502079553606189
+W: market. <E>|</E> product 8.502079553606189
+W: "Captain <E>|</E> product 8.502079553606189
+L: information <E>|</E> phone 8.502079553606189
+2L: The information <E>|</E> phone 8.502079553606189
+LR: information , <E>|</E> phone 8.502079553606189
+W: information <E>|</E> phone 8.502079553606189
+2L: other marketing <E>|</E> product 8.502079553606189
+2R: , said <E>|</E> product 8.502079553606189
+LR: marketing , <E>|</E> product 8.502079553606189
+L: specialized <E>|</E> product 8.502079553606189
+2L: a specialized <E>|</E> product 8.502079553606189
+2R: of beds <E>|</E> product 8.502079553606189
+LR: specialized of <E>|</E> product 8.502079553606189
+W: specialized <E>|</E> product 8.502079553606189
+W: beds <E>|</E> product 8.502079553606189
+L: its <E>|</E> product 8.502079553606189
+2L: broaden its <E>|</E> product 8.502079553606189
+2R: by offering <E>|</E> product 8.502079553606189
+LR: its by <E>|</E> product 8.502079553606189
+W: broaden <E>|</E> product 8.502079553606189
+W: offering <E>|</E> product 8.502079553606189
+L: Lexus <E>|</E> product 8.502079553606189
+2L: luxury Lexus <E>|</E> product 8.502079553606189
+LR: Lexus in <E>|</E> product 8.502079553606189
+W: luxury <E>|</E> product 8.502079553606189
+W: Lexus <E>|</E> product 8.502079553606189
+2L: upscale car <E>|</E> product 8.502079553606189
+2R: through a <E>|</E> product 8.502079553606189
+LR: car through <E>|</E> product 8.502079553606189
+W: upscale <E>|</E> product 8.502079553606189
+2L: through telephone <E>|</E> phone 8.502079553606189
+2R: and to <E>|</E> phone 8.502079553606189
+2R: of women's <E>|</E> product 8.502079553606189
+L: to <E>|</E> product 8.502079553606189
+R: one <E>|</E> product 8.502079553606189
+2L: seems to <E>|</E> product 8.502079553606189
+2R: one of <E>|</E> product 8.502079553606189
+LR: to one <E>|</E> product 8.502079553606189
+W: seems <E>|</E> product 8.502079553606189
+W: correct <E>|</E> product 8.502079553606189
+2L: for direct <E>|</E> phone 8.502079553606189
+L: current <E>|</E> product 8.502079553606189
+2L: its current <E>|</E> product 8.502079553606189
+2R: of midpriced <E>|</E> product 8.502079553606189
+LR: current of <E>|</E> product 8.502079553606189
+W: midpriced <E>|</E> product 8.502079553606189
+L: drink <E>|</E> product 8.502079553606189
+2L: soft drink <E>|</E> product 8.502079553606189
+LR: drink . <E>|</E> product 8.502079553606189
+W: soft <E>|</E> product 8.502079553606189
+W: drink <E>|</E> product 8.502079553606189
+2L: of access <E>|</E> phone 8.502079553606189
+2R: in service. <E>|</E> phone 8.502079553606189
+W: service. <E>|</E> phone 8.502079553606189
+L: at <E>|</E> product 8.502079553606189
+2L: just at <E>|</E> product 8.502079553606189
+2R: that supplement <E>|</E> product 8.502079553606189
+LR: at that <E>|</E> product 8.502079553606189
+W: supplement <E>|</E> product 8.502079553606189
+L: office-equipment <E>|</E> product 8.502079553606189
+2L: its office-equipment <E>|</E> product 8.502079553606189
+LR: office-equipment . <E>|</E> product 8.502079553606189
+W: office-equipment <E>|</E> product 8.502079553606189
+2L: the old <E>|</E> product 8.502079553606189
+2R: -- that <E>|</E> product 8.502079553606189
+LR: old -- <E>|</E> product 8.502079553606189
+L: Corsica <E>|</E> product 8.502079553606189
+2L: Chevrolet Corsica <E>|</E> product 8.502079553606189
+LR: Corsica . <E>|</E> product 8.502079553606189
+W: Chevrolet <E>|</E> product 8.502079553606189
+W: Corsica <E>|</E> product 8.502079553606189
+L: credit <E>|</E> product 8.502079553606189
+2L: The credit <E>|</E> product 8.502079553606189
+2R: , to <E>|</E> product 8.502079553606189
+LR: credit , <E>|</E> product 8.502079553606189
+W: credit <E>|</E> product 8.502079553606189
+2R: of mainframes <E>|</E> product 8.502079553606189
+W: mainframes <E>|</E> product 8.502079553606189
+L: building-materials <E>|</E> product 8.502079553606189
+2L: the building-materials <E>|</E> product 8.502079553606189
+LR: building-materials , <E>|</E> product 8.502079553606189
+W: building-materials <E>|</E> product 8.502079553606189
+2L: including telephone <E>|</E> phone 8.502079553606189
+L: with <E>|</E> phone 8.502079553606189
+2L: business with <E>|</E> phone 8.502079553606189
+2R: they deem <E>|</E> phone 8.502079553606189
+LR: with they <E>|</E> phone 8.502079553606189
+W: business <E>|</E> phone 8.502079553606189
+W: deem <E>|</E> phone 8.502079553606189
+2L: and the <E>|</E> phone 8.502079553606189
+LR: the went <E>|</E> phone 8.502079553606189
+2L: poorest telephone- <E>|</E> phone 8.502079553606189
+2R: growth since <E>|</E> phone 8.502079553606189
+LR: telephone- growth <E>|</E> phone 8.502079553606189
+W: poorest <E>|</E> phone 8.502079553606189
+W: since <E>|</E> phone 8.502079553606189
+L: specialty-food <E>|</E> product 8.502079553606189
+2L: smaller specialty-food <E>|</E> product 8.502079553606189
+LR: specialty-food . <E>|</E> product 8.502079553606189
+W: smaller <E>|</E> product 8.502079553606189
+W: specialty-food <E>|</E> product 8.502079553606189
+2L: a direct <E>|</E> phone 8.502079553606189
+2L: IBM PS/2 <E>|</E> product 8.502079553606189
+2R: so I <E>|</E> phone 8.502079553606189
+LR: the so <E>|</E> phone 8.502079553606189
+2L: read the <E>|</E> product 8.502079553606189
+W: read <E>|</E> product 8.502079553606189
+2L: its skin-care <E>|</E> product 8.502079553606189
+2R: last month <E>|</E> product 8.502079553606189
+LR: skin-care last <E>|</E> product 8.502079553606189
+W: month <E>|</E> product 8.502079553606189
+L: Transformers <E>|</E> product 8.502079553606189
+R: ; <E>|</E> product 8.502079553606189
+2L: and Transformers <E>|</E> product 8.502079553606189
+2R: ; Tonka <E>|</E> product 8.502079553606189
+LR: Transformers ; <E>|</E> product 8.502079553606189
+W: Transformers <E>|</E> product 8.502079553606189
+W: ; <E>|</E> product 8.502079553606189
+W: Tonka <E>|</E> product 8.502079553606189
+2R: of Chevrolet <E>|</E> product 8.502079553606189
+L: exchange <E>|</E> phone 8.502079553606189
+2L: foreign exchange <E>|</E> phone 8.502079553606189
+LR: exchange . <E>|</E> phone 8.502079553606189
+W: foreign <E>|</E> phone 8.502079553606189
+W: exchange <E>|</E> phone 8.502079553606189
+R: be <E>|</E> phone 8.502079553606189
+2L: Would his <E>|</E> phone 8.502079553606189
+2R: be tapped <E>|</E> phone 8.502079553606189
+LR: his be <E>|</E> phone 8.502079553606189
+W: Would <E>|</E> phone 8.502079553606189
+W: tapped <E>|</E> phone 8.502079553606189
+L: Clarion <E>|</E> product 8.502079553606189
+2L: and Clarion <E>|</E> product 8.502079553606189
+2R: have a <E>|</E> product 8.502079553606189
+LR: Clarion have <E>|</E> product 8.502079553606189
+W: Clarion <E>|</E> product 8.502079553606189
+L: machinery <E>|</E> product 8.502079553606189
+2L: agricultural machinery <E>|</E> product 8.502079553606189
+2R: , fell <E>|</E> product 8.502079553606189
+LR: machinery , <E>|</E> product 8.502079553606189
+W: agricultural <E>|</E> product 8.502079553606189
+W: machinery <E>|</E> product 8.502079553606189
+W: fell <E>|</E> product 8.502079553606189
+2R: , sir <E>|</E> phone 8.502079553606189
+W: sir <E>|</E> phone 8.502079553606189
+2R: , like <E>|</E> phone 8.502079553606189
+W: like <E>|</E> phone 8.502079553606189
+2L: all its <E>|</E> product 8.502079553606189
+LR: its . <E>|</E> product 8.502079553606189
+L: some <E>|</E> product 8.502079553606189
+R: ." <E>|</E> product 8.502079553606189
+2L: for some <E>|</E> product 8.502079553606189
+LR: some ." <E>|</E> product 8.502079553606189
+W: ." <E>|</E> product 8.502079553606189
+R: it <E>|</E> product 8.502079553606189
+2L: under the <E>|</E> product 8.502079553606189
+2R: it had <E>|</E> product 8.502079553606189
+LR: the it <E>|</E> product 8.502079553606189
+2L: "secure" telephone <E>|</E> phone 8.502079553606189
+2R: that can't <E>|</E> phone 8.502079553606189
+W: "secure" <E>|</E> phone 8.502079553606189
+W: can't <E>|</E> phone 8.502079553606189
+2L: more telephone <E>|</E> phone 8.502079553606189
+2R: , according <E>|</E> phone 8.502079553606189
+W: according <E>|</E> phone 8.502079553606189
+L: Denton <E>|</E> product 8.502079553606189
+2L: Dr. Denton <E>|</E> product 8.502079553606189
+2R: of sweaters <E>|</E> product 8.502079553606189
+LR: Denton of <E>|</E> product 8.502079553606189
+W: Dr. <E>|</E> product 8.502079553606189
+W: Denton <E>|</E> product 8.502079553606189
+W: sweaters <E>|</E> product 8.502079553606189
+2L: have a <E>|</E> product 8.502079553606189
+LR: a into <E>|</E> product 8.502079553606189
+L: Hospital <E>|</E> phone 8.502079553606189
+2L: the Hospital <E>|</E> phone 8.502079553606189
+2R: was still <E>|</E> phone 8.502079553606189
+LR: Hospital was <E>|</E> phone 8.502079553606189
+W: Hospital <E>|</E> phone 8.502079553606189
+L: military <E>|</E> product 8.502079553606189
+2L: lucrative military <E>|</E> product 8.502079553606189
+2R: of computer <E>|</E> product 8.502079553606189
+LR: military of <E>|</E> product 8.502079553606189
+W: lucrative <E>|</E> product 8.502079553606189
+W: military <E>|</E> product 8.502079553606189
+2L: of his <E>|</E> product 8.502079553606189
+2R: to survive <E>|</E> product 8.502079553606189
+LR: his to <E>|</E> product 8.502079553606189
+W: survive <E>|</E> product 8.502079553606189
+L: George <E>|</E> product 8.502079553606189
+2L: by George <E>|</E> product 8.502079553606189
+2R: is just <E>|</E> product 8.502079553606189
+LR: George is <E>|</E> product 8.502079553606189
+W: George <E>|</E> product 8.502079553606189
+2L: markets a <E>|</E> product 8.502079553606189
+2R: of Japanese-made <E>|</E> product 8.502079553606189
+W: markets <E>|</E> product 8.502079553606189
+W: Japanese-made <E>|</E> product 8.502079553606189
+R: during <E>|</E> phone 8.502079553606189
+2R: during the <E>|</E> phone 8.502079553606189
+LR: telephone during <E>|</E> phone 8.502079553606189
+W: during <E>|</E> phone 8.502079553606189
+L: long-awaited <E>|</E> product 8.502079553606189
+2L: its long-awaited <E>|</E> product 8.502079553606189
+2R: of laptop <E>|</E> product 8.502079553606189
+LR: long-awaited of <E>|</E> product 8.502079553606189
+W: long-awaited <E>|</E> product 8.502079553606189
+W: laptop <E>|</E> product 8.502079553606189
+L: chemicals <E>|</E> product 8.502079553606189
+2L: basic chemicals <E>|</E> product 8.502079553606189
+2R: from Imperial <E>|</E> product 8.502079553606189
+LR: chemicals from <E>|</E> product 8.502079553606189
+W: basic <E>|</E> product 8.502079553606189
+W: chemicals <E>|</E> product 8.502079553606189
+W: Imperial <E>|</E> product 8.502079553606189
+L: nail-polish <E>|</E> product 8.502079553606189
+2L: and nail-polish <E>|</E> product 8.502079553606189
+LR: nail-polish . <E>|</E> product 8.502079553606189
+W: nail-polish <E>|</E> product 8.502079553606189
+2R: was busy <E>|</E> phone 8.502079553606189
+2L: million access <E>|</E> phone 8.502079553606189
+2R: in service <E>|</E> phone 8.502079553606189
+W: service <E>|</E> phone 8.502079553606189
+2L: its microprocessor <E>|</E> product 8.502079553606189
+L: exclusive <E>|</E> product 8.502079553606189
+2L: an exclusive <E>|</E> product 8.502079553606189
+2R: of stylish <E>|</E> product 8.502079553606189
+LR: exclusive of <E>|</E> product 8.502079553606189
+W: exclusive <E>|</E> product 8.502079553606189
+W: stylish <E>|</E> product 8.502079553606189
+L: 442,000 <E>|</E> phone 8.502079553606189
+2L: about 442,000 <E>|</E> phone 8.502079553606189
+2R: in China, <E>|</E> phone 8.502079553606189
+LR: 442,000 in <E>|</E> phone 8.502079553606189
+W: 442,000 <E>|</E> phone 8.502079553606189
+W: China, <E>|</E> phone 8.502079553606189
+2L: its car <E>|</E> product 8.502079553606189
+LR: car , <E>|</E> product 8.502079553606189
+2L: products, a <E>|</E> product 8.502079553606189
+2R: of plastic <E>|</E> product 8.502079553606189
+W: products, <E>|</E> product 8.502079553606189
+W: plastic <E>|</E> product 8.502079553606189
+L: clogged <E>|</E> phone 8.502079553606189
+2L: says clogged <E>|</E> phone 8.502079553606189
+2R: recently caused <E>|</E> phone 8.502079553606189
+LR: clogged recently <E>|</E> phone 8.502079553606189
+W: caused <E>|</E> phone 8.502079553606189
+2L: main computer <E>|</E> product 8.502079553606189
+LR: computer . <E>|</E> product 8.502079553606189
+W: main <E>|</E> product 8.502079553606189
+L: Lanterns <E>|</E> product 8.502079553606189
+2L: Oh Lanterns <E>|</E> product 8.502079553606189
+2R: of grotesque, <E>|</E> product 8.502079553606189
+LR: Lanterns of <E>|</E> product 8.502079553606189
+W: Oh <E>|</E> product 8.502079553606189
+W: Lanterns <E>|</E> product 8.502079553606189
+W: grotesque, <E>|</E> product 8.502079553606189
+L: acquired <E>|</E> product 8.502079553606189
+2L: the acquired <E>|</E> product 8.502079553606189
+LR: acquired , <E>|</E> product 8.502079553606189
+R: planned <E>|</E> product 8.502079553606189
+2L: $29.375. The <E>|</E> product 8.502079553606189
+2R: planned for <E>|</E> product 8.502079553606189
+LR: The planned <E>|</E> product 8.502079553606189
+W: $29.375. <E>|</E> product 8.502079553606189
+W: planned <E>|</E> product 8.502079553606189
+L: PW4000 <E>|</E> product 8.502079553606189
+2L: Pratt's PW4000 <E>|</E> product 8.502079553606189
+2R: , have <E>|</E> product 8.502079553606189
+LR: PW4000 , <E>|</E> product 8.502079553606189
+W: Pratt's <E>|</E> product 8.502079553606189
+W: PW4000 <E>|</E> product 8.502079553606189
+2L: its PS/2 <E>|</E> product 8.502079553606189
+2R: last April, <E>|</E> product 8.502079553606189
+LR: PS/2 last <E>|</E> product 8.502079553606189
+W: April, <E>|</E> product 8.502079553606189
+R: appealing <E>|</E> phone 8.502079553606189
+2L: consumer information <E>|</E> phone 8.502079553606189
+2R: appealing for <E>|</E> phone 8.502079553606189
+LR: information appealing <E>|</E> phone 8.502079553606189
+W: appealing <E>|</E> phone 8.502079553606189
+2L: shedding some <E>|</E> product 8.502079553606189
+2R: and perhaps <E>|</E> product 8.502079553606189
+LR: some and <E>|</E> product 8.502079553606189
+W: shedding <E>|</E> product 8.502079553606189
+W: perhaps <E>|</E> product 8.502079553606189
+L: private- <E>|</E> phone 8.502079553606189
+2L: many private- <E>|</E> phone 8.502079553606189
+2R: and Centrex <E>|</E> phone 8.502079553606189
+LR: private- and <E>|</E> phone 8.502079553606189
+W: many <E>|</E> phone 8.502079553606189
+W: private- <E>|</E> phone 8.502079553606189
+W: Centrex <E>|</E> phone 8.502079553606189
+2R: is in <E>|</E> phone 8.502079553606189
+LR: the is <E>|</E> phone 8.502079553606189
+L: consumer-products <E>|</E> product 8.502079553606189
+R: there, <E>|</E> product 8.502079553606189
+2L: other consumer-products <E>|</E> product 8.502079553606189
+2R: there, including <E>|</E> product 8.502079553606189
+LR: consumer-products there, <E>|</E> product 8.502079553606189
+W: consumer-products <E>|</E> product 8.502079553606189
+W: there, <E>|</E> product 8.502079553606189
+2R: for you <E>|</E> phone 8.502079553606189
+LR: the for <E>|</E> phone 8.502079553606189
+W: you <E>|</E> phone 8.502079553606189
+R: won't <E>|</E> product 8.502079553606189
+2L: personal computer <E>|</E> product 8.502079553606189
+2R: won't help <E>|</E> product 8.502079553606189
+LR: computer won't <E>|</E> product 8.502079553606189
+W: won't <E>|</E> product 8.502079553606189
+W: help <E>|</E> product 8.502079553606189
+2L: introduced a <E>|</E> product 8.502079553606189
+2R: of coronary <E>|</E> product 8.502079553606189
+W: introduced <E>|</E> product 8.502079553606189
+W: coronary <E>|</E> product 8.502079553606189
+L: sewing <E>|</E> product 8.502079553606189
+2L: its sewing <E>|</E> product 8.502079553606189
+2R: , they <E>|</E> product 8.502079553606189
+LR: sewing , <E>|</E> product 8.502079553606189
+W: sewing <E>|</E> product 8.502079553606189
+L: 3,600 <E>|</E> phone 8.502079553606189
+2L: about 3,600 <E>|</E> phone 8.502079553606189
+LR: 3,600 at <E>|</E> phone 8.502079553606189
+W: 3,600 <E>|</E> phone 8.502079553606189
+L: health-club <E>|</E> product 8.502079553606189
+2L: the health-club <E>|</E> product 8.502079553606189
+2R: , Bally <E>|</E> product 8.502079553606189
+LR: health-club , <E>|</E> product 8.502079553606189
+W: health-club <E>|</E> product 8.502079553606189
+W: Bally <E>|</E> product 8.502079553606189
+L: extending <E>|</E> phone 8.502079553606189
+2L: that extending <E>|</E> phone 8.502079553606189
+2R: to investment <E>|</E> phone 8.502079553606189
+LR: extending to <E>|</E> phone 8.502079553606189
+W: extending <E>|</E> phone 8.502079553606189
+W: investment <E>|</E> phone 8.502079553606189
+L: Business <E>|</E> phone 8.502079553606189
+2L: time. Business <E>|</E> phone 8.502079553606189
+LR: Business increased <E>|</E> phone 8.502079553606189
+W: time. <E>|</E> phone 8.502079553606189
+W: Business <E>|</E> phone 8.502079553606189
+L: asynchronous <E>|</E> phone 8.502079553606189
+2L: or asynchronous <E>|</E> phone 8.502079553606189
+LR: asynchronous . <E>|</E> phone 8.502079553606189
+W: asynchronous <E>|</E> phone 8.502079553606189
+L: Coleco's <E>|</E> product 8.502079553606189
+2L: of Coleco's <E>|</E> product 8.502079553606189
+LR: Coleco's , <E>|</E> product 8.502079553606189
+W: Coleco's <E>|</E> product 8.502079553606189
+L: bit <E>|</E> product 8.502079553606189
+2L: drilling bit <E>|</E> product 8.502079553606189
+2R: is "substantially <E>|</E> product 8.502079553606189
+LR: bit is <E>|</E> product 8.502079553606189
+W: drilling <E>|</E> product 8.502079553606189
+W: bit <E>|</E> product 8.502079553606189
+W: "substantially <E>|</E> product 8.502079553606189
+L: Zytel <E>|</E> product 8.502079553606189
+2L: its Zytel <E>|</E> product 8.502079553606189
+2R: of nylon <E>|</E> product 8.502079553606189
+LR: Zytel of <E>|</E> product 8.502079553606189
+W: Zytel <E>|</E> product 8.502079553606189
+W: nylon <E>|</E> product 8.502079553606189
+L: another <E>|</E> phone 8.502079553606189
+2L: on another <E>|</E> phone 8.502079553606189
+LR: another . <E>|</E> phone 8.502079553606189
+2L: their telephone <E>|</E> phone 8.502079553606189
+2R: -- checking <E>|</E> phone 8.502079553606189
+W: checking <E>|</E> phone 8.502079553606189
+L: X-rated <E>|</E> phone 8.502079553606189
+2L: new X-rated <E>|</E> phone 8.502079553606189
+LR: X-rated . <E>|</E> phone 8.502079553606189
+W: X-rated <E>|</E> phone 8.502079553606189
+L: advertised <E>|</E> product 8.502079553606189
+2L: nationally advertised <E>|</E> product 8.502079553606189
+LR: advertised . <E>|</E> product 8.502079553606189
+W: nationally <E>|</E> product 8.502079553606189
+W: advertised <E>|</E> product 8.502079553606189
+2L: with a <E>|</E> product 8.502079553606189
+2R: of jeans <E>|</E> product 8.502079553606189
+W: jeans <E>|</E> product 8.502079553606189
+L: one-on-one <E>|</E> phone 8.502079553606189
+R: like <E>|</E> phone 8.502079553606189
+2L: a one-on-one <E>|</E> phone 8.502079553606189
+2R: like the <E>|</E> phone 8.502079553606189
+LR: one-on-one like <E>|</E> phone 8.502079553606189
+W: one-on-one <E>|</E> phone 8.502079553606189
+L: filter <E>|</E> product 8.502079553606189
+2L: initial filter <E>|</E> product 8.502079553606189
+2R: for three <E>|</E> product 8.502079553606189
+LR: filter for <E>|</E> product 8.502079553606189
+W: initial <E>|</E> product 8.502079553606189
+W: filter <E>|</E> product 8.502079553606189
+L: 1,800 <E>|</E> phone 8.502079553606189
+2L: about 1,800 <E>|</E> phone 8.502079553606189
+2R: in central <E>|</E> phone 8.502079553606189
+LR: 1,800 in <E>|</E> phone 8.502079553606189
+W: 1,800 <E>|</E> phone 8.502079553606189
+W: central <E>|</E> phone 8.502079553606189
+2R: for the <E>|</E> product 8.502079553606189
+LR: a for <E>|</E> product 8.502079553606189
+2R: , while <E>|</E> phone 8.502079553606189
+2L: three telephone <E>|</E> phone 8.502079553606189
+2R: and a <E>|</E> phone 8.502079553606189
+2L: company's car <E>|</E> product 8.502079553606189
+L: VAX <E>|</E> product 8.502079553606189
+2L: its VAX <E>|</E> product 8.502079553606189
+LR: VAX has <E>|</E> product 8.502079553606189
+W: VAX <E>|</E> product 8.502079553606189
+2L: for a <E>|</E> product 8.502079553606189
+2R: of Green <E>|</E> product 8.502079553606189
+W: Green <E>|</E> product 8.502079553606189
+2L: Digital's VAX <E>|</E> product 8.502079553606189
+2R: , Cray's <E>|</E> product 8.502079553606189
+LR: VAX , <E>|</E> product 8.502079553606189
+W: Digital's <E>|</E> product 8.502079553606189
+W: Cray's <E>|</E> product 8.502079553606189
+2R: as a <E>|</E> product 8.502079553606189
+LR: PS/2 as <E>|</E> product 8.502079553606189
+L: emergency <E>|</E> phone 8.502079553606189
+2L: 911 emergency <E>|</E> phone 8.502079553606189
+2R: , played <E>|</E> phone 8.502079553606189
+LR: emergency , <E>|</E> phone 8.502079553606189
+W: 911 <E>|</E> phone 8.502079553606189
+W: emergency <E>|</E> phone 8.502079553606189
+W: played <E>|</E> phone 8.502079553606189
+L: priced <E>|</E> product 8.502079553606189
+2L: reasonably priced <E>|</E> product 8.502079553606189
+2R: of stock." <E>|</E> product 8.502079553606189
+LR: priced of <E>|</E> product 8.502079553606189
+W: reasonably <E>|</E> product 8.502079553606189
+W: priced <E>|</E> product 8.502079553606189
+W: stock." <E>|</E> product 8.502079553606189
+R: included <E>|</E> product 8.502079553606189
+2L: new product <E>|</E> product 8.502079553606189
+2R: included the <E>|</E> product 8.502079553606189
+LR: product included <E>|</E> product 8.502079553606189
+W: included <E>|</E> product 8.502079553606189
+L: huge <E>|</E> product 8.502079553606189
+2L: already huge <E>|</E> product 8.502079553606189
+2R: of General <E>|</E> product 8.502079553606189
+LR: huge of <E>|</E> product 8.502079553606189
+W: already <E>|</E> product 8.502079553606189
+W: huge <E>|</E> product 8.502079553606189
+W: General <E>|</E> product 8.502079553606189
+L: Marx <E>|</E> product 8.502079553606189
+2L: & Marx <E>|</E> product 8.502079553606189
+2R: to 15. <E>|</E> product 8.502079553606189
+LR: Marx to <E>|</E> product 8.502079553606189
+W: & <E>|</E> product 8.502079553606189
+W: Marx <E>|</E> product 8.502079553606189
+W: 15. <E>|</E> product 8.502079553606189
+2L: with the <E>|</E> product 8.502079553606189
+2R: because Noxell <E>|</E> product 8.502079553606189
+LR: the because <E>|</E> product 8.502079553606189
+W: Noxell <E>|</E> product 8.502079553606189
+2R: that might <E>|</E> phone 8.502079553606189
+LR: the that <E>|</E> phone 8.502079553606189
+W: might <E>|</E> phone 8.502079553606189
+2L: existing product <E>|</E> product 8.502079553606189
+2R: , will <E>|</E> product 8.502079553606189
+W: existing <E>|</E> product 8.502079553606189
+2L: consumer products <E>|</E> product 8.502079553606189
+2R: so it <E>|</E> product 8.502079553606189
+LR: products so <E>|</E> product 8.502079553606189
+L: subscriber- <E>|</E> phone 8.502079553606189
+R: charge <E>|</E> phone 8.502079553606189
+2L: the subscriber- <E>|</E> phone 8.502079553606189
+2R: charge by <E>|</E> phone 8.502079553606189
+LR: subscriber- charge <E>|</E> phone 8.502079553606189
+W: subscriber- <E>|</E> phone 8.502079553606189
+W: charge <E>|</E> phone 8.502079553606189
+2R: of Halloween <E>|</E> product 8.502079553606189
+W: Halloween <E>|</E> product 8.502079553606189
+L: optometric <E>|</E> product 8.502079553606189
+2L: The optometric <E>|</E> product 8.502079553606189
+2R: were expected <E>|</E> product 8.502079553606189
+LR: optometric were <E>|</E> product 8.502079553606189
+W: optometric <E>|</E> product 8.502079553606189
+L: ground-coffee <E>|</E> product 8.502079553606189
+2L: its ground-coffee <E>|</E> product 8.502079553606189
+2R: through costly <E>|</E> product 8.502079553606189
+LR: ground-coffee through <E>|</E> product 8.502079553606189
+W: ground-coffee <E>|</E> product 8.502079553606189
+W: costly <E>|</E> product 8.502079553606189
+2R: at once <E>|</E> phone 8.502079553606189
+LR: the at <E>|</E> phone 8.502079553606189
+2L: and a <E>|</E> product 8.502079553606189
+2R: of jockey <E>|</E> product 8.502079553606189
+W: jockey <E>|</E> product 8.502079553606189
+L: sex <E>|</E> phone 8.502079553606189
+2L: in sex <E>|</E> phone 8.502079553606189
+2R: and gab <E>|</E> phone 8.502079553606189
+LR: sex and <E>|</E> phone 8.502079553606189
+W: sex <E>|</E> phone 8.502079553606189
+2R: was John <E>|</E> phone 8.502079553606189
+W: John <E>|</E> phone 8.502079553606189
+L: {product} <E>|</E> product 8.502079553606189
+2L: the {product} <E>|</E> product 8.502079553606189
+2R: ," she <E>|</E> product 8.502079553606189
+LR: {product} ," <E>|</E> product 8.502079553606189
+W: {product} <E>|</E> product 8.502079553606189
+W: she <E>|</E> product 8.502079553606189
+L: Fox <E>|</E> product 8.502079553606189
+2L: entry-level Fox <E>|</E> product 8.502079553606189
+LR: Fox . <E>|</E> product 8.502079553606189
+W: entry-level <E>|</E> product 8.502079553606189
+W: Fox <E>|</E> product 8.502079553606189
+L: chat <E>|</E> phone 8.502079553606189
+2L: a chat <E>|</E> phone 8.502079553606189
+2R: . -- <E>|</E> phone 8.502079553606189
+LR: chat . <E>|</E> phone 8.502079553606189
+W: chat <E>|</E> phone 8.502079553606189
+L: ordinary <E>|</E> phone 8.502079553606189
+2L: over ordinary <E>|</E> phone 8.502079553606189
+LR: ordinary . <E>|</E> phone 8.502079553606189
+W: ordinary <E>|</E> phone 8.502079553606189
+R: jumped <E>|</E> phone 8.502079553606189
+2L: business telephone <E>|</E> phone 8.502079553606189
+2R: jumped 6.8% <E>|</E> phone 8.502079553606189
+LR: telephone jumped <E>|</E> phone 8.502079553606189
+W: jumped <E>|</E> phone 8.502079553606189
+W: 6.8% <E>|</E> phone 8.502079553606189
+2R: . A <E>|</E> phone 8.502079553606189
+L: communications <E>|</E> phone 8.502079553606189
+2L: renting communications <E>|</E> phone 8.502079553606189
+2R: to tie <E>|</E> phone 8.502079553606189
+LR: communications to <E>|</E> phone 8.502079553606189
+W: renting <E>|</E> phone 8.502079553606189
+W: communications <E>|</E> phone 8.502079553606189
+W: tie <E>|</E> phone 8.502079553606189
+L: 3X <E>|</E> product 8.502079553606189
+2L: sturdy 3X <E>|</E> product 8.502079553606189
+2R: , with <E>|</E> product 8.502079553606189
+LR: 3X , <E>|</E> product 8.502079553606189
+W: sturdy <E>|</E> product 8.502079553606189
+W: 3X <E>|</E> product 8.502079553606189
+2L: testing a <E>|</E> product 8.502079553606189
+W: testing <E>|</E> product 8.502079553606189
+2L: the tip <E>|</E> phone 8.502079553606189
+2R: are Wall <E>|</E> phone 8.502079553606189
+LR: tip are <E>|</E> phone 8.502079553606189
+W: Wall <E>|</E> phone 8.502079553606189
+L: future <E>|</E> product 8.502079553606189
+2L: some future <E>|</E> product 8.502079553606189
+2R: , Hormel <E>|</E> product 8.502079553606189
+LR: future , <E>|</E> product 8.502079553606189
+W: future <E>|</E> product 8.502079553606189
+W: Hormel <E>|</E> product 8.502079553606189
+L: " <E>|</E> phone 8.502079553606189
+R: noise <E>|</E> phone 8.502079553606189
+2L: no " <E>|</E> phone 8.502079553606189
+2R: noise " <E>|</E> phone 8.502079553606189
+LR: " noise <E>|</E> phone 8.502079553606189
+W: noise <E>|</E> phone 8.502079553606189
+R: anymore," <E>|</E> product 8.502079553606189
+2L: a car <E>|</E> product 8.502079553606189
+2R: anymore," laments <E>|</E> product 8.502079553606189
+LR: car anymore," <E>|</E> product 8.502079553606189
+W: anymore," <E>|</E> product 8.502079553606189
+W: laments <E>|</E> product 8.502079553606189
+L: Lancome <E>|</E> product 8.502079553606189
+2L: Inc.'s Lancome <E>|</E> product 8.502079553606189
+2R: are likely <E>|</E> product 8.502079553606189
+LR: Lancome are <E>|</E> product 8.502079553606189
+W: Lancome <E>|</E> product 8.502079553606189
+W: likely <E>|</E> product 8.502079553606189
+R: a <E>|</E> phone 8.502079553606189
+2L: the party <E>|</E> phone 8.502079553606189
+2R: a new <E>|</E> phone 8.502079553606189
+LR: party a <E>|</E> phone 8.502079553606189
+R: of <E>|</E> product 4.02535169073515
+L: a <E>|</E> product 2.9444389791664403
+W: its <E>|</E> product 2.6741486494265287
+R: was <E>|</E> phone 2.4849066497880004
+W: was <E>|</E> phone 2.4849066497880004
+LR: the , <E>|</E> phone 2.3978952727983707
+LR: the . <E>|</E> phone 2.3978952727983707
+L: new <E>|</E> product 2.197224577336219
+L: The <E>|</E> phone 1.9459101490553132
+L: the <E>|</E> phone 1.8607523407150064
+W: from <E>|</E> product 1.791759469228055
+R: is <E>|</E> product 1.6094379124341005
+W: of <E>|</E> product 1.5621850275835547
+W: -- <E>|</E> phone 1.3862943611198906
+R: to <E>|</E> phone 1.1786549963416462
+W: current <E>|</E> product 1.0986122886681098
+W: more <E>|</E> product 1.0986122886681098
+W: is <E>|</E> product 1.0986122886681098
+W: have <E>|</E> product 1.0986122886681098
+2R: , which <E>|</E> product 1.0986122886681098
+W: which <E>|</E> product 1.0986122886681098
+W: their <E>|</E> phone 1.0986122886681098
+W: through <E>|</E> product 1.0986122886681098
+R: from <E>|</E> product 1.0986122886681098
+R: are <E>|</E> product 1.0986122886681098
+W: are <E>|</E> product 1.0986122886681098
+R: -- <E>|</E> phone 1.0986122886681098
+W: some <E>|</E> product 1.0986122886681098
+W: a <E>|</E> product 1.0459685551826876
+R: that <E>|</E> phone 0.9162907318741551
+R: were <E>|</E> phone 0.9162907318741551
+W: were <E>|</E> phone 0.9162907318741551
+W: the <E>|</E> phone 0.837396789404492
+W: that <E>|</E> phone 0.8109302162163288
+W: in <E>|</E> phone 0.7731898882334819
+W: as <E>|</E> product 0.6931471805599453
+W: to <E>|</E> phone 0.6931471805599453
+W: three <E>|</E> product 0.6931471805599453
+W: could <E>|</E> product 0.6931471805599453
+W: been <E>|</E> product 0.6931471805599453
+W: has <E>|</E> product 0.6931471805599453
+2R: , making <E>|</E> phone 0.6931471805599453
+W: making <E>|</E> phone 0.6931471805599453
+W: an <E>|</E> phone 0.6931471805599453
+R: in <E>|</E> phone 0.6931471805599453
+2R: , but <E>|</E> phone 0.6931471805599453
+W: said <E>|</E> product 0.6931471805599453
+R: into <E>|</E> product 0.6931471805599453
+W: into <E>|</E> product 0.6931471805599453
+2R: , the <E>|</E> phone 0.6931471805599453
+W: with <E>|</E> product 0.6931471805599453
+W: A <E>|</E> product 0.6931471805599453
+2R: in the <E>|</E> product 0.6931471805599453
+L: his <E>|</E> product 0.6931471805599453
+W: just <E>|</E> product 0.6931471805599453
+W: had <E>|</E> product 0.6931471805599453
+W: they <E>|</E> phone 0.6931471805599453
+R: last <E>|</E> product 0.6931471805599453
+W: last <E>|</E> product 0.6931471805599453
+R: and <E>|</E> phone 0.6061358035703155
+W: new <E>|</E> product 0.5108256237659907
+W: The <E>|</E> phone 0.4519851237430574
+W: other <E>|</E> product 0.4054651081081643
+R: at <E>|</E> phone 0.4054651081081642
+W: but <E>|</E> phone 0.4054651081081642
+W: , <E>|</E> phone 0.16430305129127634
+W: for <E>|</E> phone 0.15415067982725816
+W: . <E>|</E> phone 0.14953173397096384
+W: and <E>|</E> phone 0.05129329438755048
+R: . <E>|</E> phone 0.0
+W: at <E>|</E> phone 0.0
+R: , <E>|</E> phone 0.0
+2R: , is <E>|</E> phone 0.0
+R: have <E>|</E> phone 0.0
+W: between <E>|</E> phone 0.0
+W: Mr. <E>|</E> phone 0.0
+2R: , and <E>|</E> phone 0.0
+W: I <E>|</E> phone 0.0
+W: by <E>|</E> phone 0.0
+R: for <E>|</E> phone 0.0
+W: 2.5% <E>|</E> phone 0.0
+2R: into the <E>|</E> phone 0.0
+L: other <E>|</E> phone 0.0
+W: still <E>|</E> phone 0.0
+W: one <E>|</E> phone 0.0
+W: out <E>|</E> phone 0.0
+R: with <E>|</E> phone 0.0
+R: called <E>|</E> phone 0.0
+W: called <E>|</E> phone 0.0
+W: this <E>|</E> phone 0.0
+W: most <E>|</E> phone 0.0
+W: his <E>|</E> phone 0.0
+2R: in a <E>|</E> phone 0.0
+W: he <E>|</E> phone 0.0
+W: all <E>|</E> phone 0.0
+LR: the in <E>|</E> phone 0.0
+R: because <E>|</E> phone 0.0
+W: because <E>|</E> phone 0.0
+W: including <E>|</E> phone 0.0
+R: so <E>|</E> phone 0.0
+W: so <E>|</E> phone 0.0
+W: consumer <E>|</E> phone 0.0
