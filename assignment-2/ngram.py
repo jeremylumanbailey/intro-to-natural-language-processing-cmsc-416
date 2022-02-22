@@ -188,7 +188,7 @@ def main():
 
     full_text = ""
     for text_file in sys.argv[3:]:
-        with open(text_file, "r") as file:
+        with open(text_file, "r", encoding="utf-8") as file:
             data = file.read()
             full_text += data
 
